@@ -8,6 +8,7 @@
 
 | 技能 | 简介 | 分类 | 标签 |
 | --- | --- | --- | --- |
+| <a href="https://github.com/zhanghao123vip/ai-manju-skills">ai-manju-skills</a> | 21 种题材的 AI 漫剧模板，从故事点子生成企划案、人物与场景资产提示词、分集剧本、分镜及视频提示词和发布文案。 | 制作流程 | 漫剧、人物、集纲、剧本、分镜、提示词 |
 | <a href="https://github.com/eternityspring/shuohao-skills">shuohao-skills</a> | 串联小说人物、改编大纲、美术、剧本与分镜，包含报告生成及校验脚本。 | 制作流程 | 小说改编、人物、美术、分镜 |
 | <a href="https://github.com/zenstory-ai/drama-skills">drama-skills</a> | 覆盖短剧开发、剧本、资产、分镜和媒体提示词；制作与剪辑环节需要配套执行工具。 | 制作流程 | 短剧、漫剧、剧本、分镜 |
 | <a href="https://github.com/lixiaoxiao9888-create/manju-laoli-skill">manju-laoli-skill</a> | 漫剧老李：AIGC 漫剧导演全流程，门控剧本、资产锁定、分镜、投喂提示词、规则化质检。 | 制作流程 | 剧本、审稿、分镜、提示词、Seedance、MiniMax H3 |
@@ -91,6 +92,13 @@
 | <a href="https://github.com/blader/humanizer">humanizer</a> | 按维基百科「Signs of AI writing」清单去除 AI 写作痕迹。 | 文字润色 | 审稿 |
 | <a href="https://github.com/KKKKhazix/human-writing">human-writing</a> | 活人感写作：让 AI 写的中文像具体的人在说话，适合打磨对白和旁白。 | 文字润色 | 审稿 |
 | <a href="https://github.com/Nanako0129/sepia">sepia</a> | 面向小说的去 AI 味：修复叙事结构，按场合匹配文风规则，方法来自 StoryScope 论文。 | 文字润色 | 审稿 |
+| <a href="https://github.com/PenglongHuang/chinese-novelist-skill">chinese-novelist-skill</a> | 通过问答确定题材、人物与冲突，生成小说大纲、人物档案和分章正文，附章节校验与润色流程。 | 故事开发 | 小说、大纲、人物、章节写作 |
+| <a href="https://github.com/lingfengQAQ/webnovel-writer">webnovel-writer</a> | 长篇网文创作技能集，覆盖项目初始化、卷章规划、设定查询、章节写作与审查，配套项目状态和脚本工具。 | 故事开发 | 长篇网文、大纲、设定管理、审稿 |
+| <a href="https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL">De-AI-Prompt-Enhancer-Writer-Booster-SKILL</a> | 包含 de-AI-writing 与 good-writing，分别用于中文改写精修和特定作者风格复现，支持结构保真翻译与按需读取参考资料。 | 文字润色 | 中文、去AI味、文风、翻译 |
+| <a href="https://github.com/larashero3-dotcom/lieflat-less-ai-tone">lieflat-less-ai-tone</a> | 按明确规则清理中文成稿中的模板句式、重复结构与翻译腔，保留未命中规则的文字和原有文章框架。 | 文字润色 | 中文、去AI味、成稿精修、保真改写 |
+| <a href="https://github.com/baibanbao/qu-ai-wei">baibanbao/qu-ai-wei</a> | 结合王佩写作系统、humanizer-zh 与 lieflat-less-ai-tone，区分自家稿编辑和白名单清理，保留作者声音与事实边界。 | 文字润色 | 中文、去AI味、编辑、作者声音 |
+| <a href="https://github.com/Emily2040/seedance-2.0">seedance-2.0</a> | 模块化 Seedance 2.0 视频提示词技能集，覆盖创意访谈、运镜、灯光、角色一致性、片段续接、多镜头编排与结果诊断。 | 分镜与提示词 | Seedance、运镜、灯光、角色一致性、连续性 |
+| <a href="https://github.com/eternityspring/reelbench-skills">reelbench-skills</a> | 包含逐镜拉片分析、分镜信息同步演示与视频元数据清理技能，结合脚本测量和模型画面判断；依赖 Node 与 FFmpeg。 | 制作流程 | 拉片、分镜分析、视频处理、FFmpeg |
 
 <!-- skills-table:end -->
 

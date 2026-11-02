@@ -1,5 +1,20 @@
 [
   {
+    "name": "ai-manju-skills",
+    "description": "21 种题材的 AI 漫剧模板，从故事点子生成企划案、人物与场景资产提示词、分集剧本、分镜及视频提示词和发布文案。",
+    "when_to_use": "按玄幻、古代、都市或悬疑等题材开发漫剧，需要从故事点子逐步整理制作文档与生成提示词。",
+    "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+    "category": "制作流程",
+    "tags": [
+      "漫剧",
+      "人物",
+      "集纲",
+      "剧本",
+      "分镜",
+      "提示词"
+    ]
+  },
+  {
     "name": "shuohao-skills",
     "description": "串联小说人物、改编大纲、美术、剧本与分镜，包含报告生成及校验脚本。",
     "when_to_use": "从小说推进到短剧制作资料，需要结构化人物、大纲、场景与分镜；运行报告需脚本环境。",
@@ -1082,5 +1097,97 @@
       "审稿"
     ],
     "category": "文字润色"
+  },
+  {
+    "name": "chinese-novelist-skill",
+    "description": "通过问答确定题材、人物与冲突，生成小说大纲、人物档案和分章正文，附章节校验与润色流程。",
+    "when_to_use": "从零开始创作中文小说，或需要先规划人物与章节，再逐章推进正文。",
+    "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
+    "category": "故事开发",
+    "tags": [
+      "小说",
+      "大纲",
+      "人物",
+      "章节写作"
+    ]
+  },
+  {
+    "name": "webnovel-writer",
+    "description": "长篇网文创作技能集，覆盖项目初始化、卷章规划、设定查询、章节写作与审查，配套项目状态和脚本工具。",
+    "when_to_use": "持续连载长篇网文，需要管理设定、伏笔和章节质量；完整流程需配套项目文件及运行环境。",
+    "url": "https://github.com/lingfengQAQ/webnovel-writer",
+    "category": "故事开发",
+    "tags": [
+      "长篇网文",
+      "大纲",
+      "设定管理",
+      "审稿"
+    ]
+  },
+  {
+    "name": "De-AI-Prompt-Enhancer-Writer-Booster-SKILL",
+    "description": "包含 de-AI-writing 与 good-writing，分别用于中文改写精修和特定作者风格复现，支持结构保真翻译与按需读取参考资料。",
+    "when_to_use": "清理中文稿的模板表达、保留原意精修，或按给定作者风格写作与改写。",
+    "url": "https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL",
+    "category": "文字润色",
+    "tags": [
+      "中文",
+      "去AI味",
+      "文风",
+      "翻译"
+    ]
+  },
+  {
+    "name": "lieflat-less-ai-tone",
+    "description": "按明确规则清理中文成稿中的模板句式、重复结构与翻译腔，保留未命中规则的文字和原有文章框架。",
+    "when_to_use": "成稿只需轻度去除模板表达，希望保留信息、结构与作者原有声音。",
+    "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+    "category": "文字润色",
+    "tags": [
+      "中文",
+      "去AI味",
+      "成稿精修",
+      "保真改写"
+    ]
+  },
+  {
+    "name": "baibanbao/qu-ai-wei",
+    "description": "结合王佩写作系统、humanizer-zh 与 lieflat-less-ai-tone，区分自家稿编辑和白名单清理，保留作者声音与事实边界。",
+    "when_to_use": "编辑中文文章或清理 AI 模板表达，需要根据稿件归属选择修改幅度。",
+    "url": "https://github.com/baibanbao/qu-ai-wei",
+    "category": "文字润色",
+    "tags": [
+      "中文",
+      "去AI味",
+      "编辑",
+      "作者声音"
+    ]
+  },
+  {
+    "name": "seedance-2.0",
+    "description": "模块化 Seedance 2.0 视频提示词技能集，覆盖创意访谈、运镜、灯光、角色一致性、片段续接、多镜头编排与结果诊断。",
+    "when_to_use": "编写或修订 Seedance 2.0 提示词，或专项处理镜头语言、角色连续性和片段衔接。",
+    "url": "https://github.com/Emily2040/seedance-2.0",
+    "category": "分镜与提示词",
+    "tags": [
+      "Seedance",
+      "运镜",
+      "灯光",
+      "角色一致性",
+      "连续性"
+    ]
+  },
+  {
+    "name": "reelbench-skills",
+    "description": "包含逐镜拉片分析、分镜信息同步演示与视频元数据清理技能，结合脚本测量和模型画面判断；依赖 Node 与 FFmpeg。",
+    "when_to_use": "分析成片的镜头与节奏、制作同步分镜演示，或清理视频元数据；部分展示流程还需浏览器。",
+    "url": "https://github.com/eternityspring/reelbench-skills",
+    "category": "制作流程",
+    "tags": [
+      "拉片",
+      "分镜分析",
+      "视频处理",
+      "FFmpeg"
+    ]
   }
 ]
