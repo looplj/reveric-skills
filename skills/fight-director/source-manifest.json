@@ -1,0 +1,38 @@
+[
+  {
+    "file": "seedance2.0 武打SKILL.md",
+    "sha256": "011eed576c241a2180c776ddf6b8555331b482a951e7be35ed53928e7f0b87e0"
+  },
+  {
+    "file": "LucianAIGC-打斗skill-V1/SKILL.md",
+    "sha256": "8b11cfc74aba00319d5501125398bfc4fc9042200144b39ccb9a64a800b3b1cc"
+  },
+  {
+    "file": "LucianAIGC-打斗skill-V1/combat-combiner-module-draft.md",
+    "sha256": "bd5e534abb9e399ac73b33b2bc1556e2f0003bfea7f3217475244563d7d28af9"
+  },
+  {
+    "file": "LucianAIGC-打斗skill-V1/references/combat-output-format-v1.md",
+    "sha256": "730aacd3660d7adf4c9ec0903589fbd99c33036b5441d7ac04650efa1a79d2e6"
+  },
+  {
+    "file": "LucianAIGC-打斗skill-V1/references/elemental-spell-skill-catalog.md",
+    "sha256": "df0e793f3b89e7f594a5ec8c85b8e4ceb87d15ddf39e664a8dd4eb5fe5010df6"
+  },
+  {
+    "file": "LucianAIGC-打斗skill-V1/references/fighting-skill-catalog.md",
+    "sha256": "7e46b000d68cf688278121bc5a712c6e27574cfbc0531eb3f3817805fb625e1f"
+  },
+  {
+    "file": "LucianAIGC-打斗skill-V1/references/v6-output-format.md",
+    "sha256": "926ea0ebce04725961447bac13f1d0babb82940c702c83148eeb6e653d1d9be5"
+  },
+  {
+    "file": "LucianAIGC-打斗skill-V1/references/vfx-guideline.md",
+    "sha256": "a715af8f605384e9cd83bc0288ac87d862c1cc369653208d53f6c78582c331dd"
+  },
+  {
+    "file": "LucianAIGC-打斗skill-V1/references/weapon-skill-catalog.md",
+    "sha256": "aa1751724d315476d40251943628e0b9808bf629075aecbca8b0d8d4156c3ecd"
+  }
+]

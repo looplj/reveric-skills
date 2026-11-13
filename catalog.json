@@ -789,6 +789,20 @@
     ]
   },
   {
+    "name": "fight-director",
+    "description": "整合 Arvin 与 LucianAIGC 的打斗导演技能：武学攻防、兵器法术、多角色空间调度、运镜与视频提示词，资料按需加载。",
+    "when_to_use": "创作或修复打斗视频提示词，需要具体动作链、镜头、特效与跨镜连续性；第三方许可分别见技能 NOTICE。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/fight-director",
+    "category": "分镜与提示词",
+    "tags": [
+      "打戏",
+      "动作",
+      "分镜",
+      "提示词",
+      "Seedance"
+    ]
+  },
+  {
     "name": "acheng-director-skill",
     "description": "Acheng 导演引擎：剧本、分镜、文戏五轨表演、打戏因果链、特效与资产，编译成 MiniMax H3 / Seedance 提示词。",
     "when_to_use": "需要将文戏、打戏和特效场景组织为分镜、表演与视频提示词。",

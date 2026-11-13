@@ -1,0 +1,29 @@
+MIT License
+
+Source attribution: Arvin (project contributor: Arvin wang)
+Seedance 2.0 二次元打戏 SKILL v1.0.0
+https://vibeshot.club/open-source/f3ee534b-b960-4402-bef8-a2ed17c16457
+
+The supplied source declares license: MIT and author: Arvin, but does not
+include a separate copyright line or year. The attribution above preserves
+the supplied author information; no original copyright year is asserted.
+The MIT permission and warranty text follows. Its scope is the Arvin source
+material identified in NOTICE.md, not the entire combined skill.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
