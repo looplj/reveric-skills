@@ -587,18 +587,251 @@
     ]
   },
   {
-    "name": "XiaoLuo-AI-Drama-Skill",
-    "description": "小逻系列：剧本分析、原创改编、分镜脚本、角色三视图/服装/表情、场景布局。",
-    "when_to_use": "短剧制作中需要剧本改编、分镜、人物三视图、服装或场景布局提示词。",
-    "url": "https://github.com/zhurui0523/XiaoLuo-AI-Drama-Skill",
+    "name": "design-script-assets",
+    "description": "从中文或外文剧本、梗概、小说片段、分镜和角色设定中提炼核心角色、角色变体、主要场景与关键道具，生成可直接用于图像生成平台的纯中文高一致性视觉 DNA 指令。",
+    "when_to_use": "从中文或外文剧本、梗概、小说片段、分镜和角色设定中提炼核心角色、角色变体、主要场景与关键道具，生成可直接用于图像生成平台的纯中文高一致性视觉 DNA 指令。用于用户调用“小逻-剧本资产 DNA 美术指导”，或要求剧本资产提炼、角色定妆、人物小传视觉化、场景概念设计、道具设计、资产标准图、白底设定图、Midjourney 或 Stable Diffusion 中文提示词时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/design-script-assets",
+    "category": "分镜与提示词",
     "tags": [
       "改编",
       "人物",
       "剧本",
-      "分镜",
-      "提示词资源"
-    ],
-    "category": "分镜与提示词"
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-90s-script-to-video",
+    "description": "将中文或英文剧本转化为资产统一、物理表演真实、时长精确受控的90秒专业视频分镜脚本。",
+    "when_to_use": "将中文或英文剧本转化为资产统一、物理表演真实、时长精确受控的90秒专业视频分镜脚本。用于用户调用“小逻-90秒剧本转视频”，或要求剧本转视频、生成分镜、拆镜头、视频Prompt、单集0–90s连续时间轴、动作反应切镜、角色资产统一、六维物理表演和每15–30秒宏观视觉换挡时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-90s-script-to-video",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-ai-drama-scene-layout",
+    "description": "根据一张或多张场景参考图提取空间、建筑、时代、色彩、光影、材质、家具、装饰和氛围视觉 DNA，生成上半部四个统一机位视角、下半部空间透视布局与摄影机位置对应关系的专业短剧场景资产板。",
+    "when_to_use": "根据一张或多张场景参考图提取空间、建筑、时代、色彩、光影、材质、家具、装饰和氛围视觉 DNA，生成上半部四个统一机位视角、下半部空间透视布局与摄影机位置对应关系的专业短剧场景资产板。用于用户调用“小逻-AI短剧场景布局设计”，或要求 Scene Design Sheet、Scene Layout、短剧场景设计、影视美术场景板、环境概念设计、虚拟拍摄布局、空间机位规划、场景一致性资产和 AI Drama Scene Asset Package 时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-ai-drama-scene-layout",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-character-costume",
+    "description": "根据一张或多张角色参考图生成专业角色服装设定图，完整拆解整体造型、上衣、下装、披风、鞋履、腰带、护甲、纹样、刺绣、面料、缝线、配件、颜色和制作工艺，并严格禁止重新设计服装。",
+    "when_to_use": "根据一张或多张角色参考图生成专业角色服装设定图，完整拆解整体造型、上衣、下装、披风、鞋履、腰带、护甲、纹样、刺绣、面料、缝线、配件、颜色和制作工艺，并严格禁止重新设计服装。用于用户调用“小逻-角色服装设定”，或要求服装设定板、Costume Sheet、服饰三视图、服装结构拆解、材质板、面料分析、纹样刺绣拆解、制作工艺标注、角色服装概念图时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-character-costume",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-character-expression",
+    "description": "根据一张或多张角色参考图生成专业角色表情设定图与标准十二表情库，严格保持同一人物、面部骨相、风格、服装、发型、配饰、构图和光照一致。",
+    "when_to_use": "根据一张或多张角色参考图生成专业角色表情设定图与标准十二表情库，严格保持同一人物、面部骨相、风格、服装、发型、配饰、构图和光照一致。用于用户调用“小逻-角色表情设定”，或要求角色表情表、表情设定板、十二宫格表情、Animation Expression Sheet、表情拆解、面部肌肉变化、喜怒哀乐表情库、角色表演参考图时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-character-expression",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-character-orthographic",
+    "description": "根据一张或多张角色参考图生成工业级角色正交视图，输出 Front、Left、Right、Back 及可选 Top、Bottom，严格保持人物身份、身体比例、服装、发型、配饰和风格一致，并执行无透视、无阴影、无景深和视图基线对齐。",
+    "when_to_use": "根据一张或多张角色参考图生成工业级角色正交视图，输出 Front、Left、Right、Back 及可选 Top、Bottom，严格保持人物身份、身体比例、服装、发型、配饰和风格一致，并执行无透视、无阴影、无景深和视图基线对齐。用于用户调用“小逻-角色三视图”，或要求角色正交图、Orthographic Views、建模三视图、四视图、六视图、3D 建模参考、角色绑定参考、动画资产图和影视角色资产标准图时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-character-orthographic",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-character-pose",
+    "description": "根据一张或多张角色参考图生成专业角色动作设定图与十五种标准姿态库，严格保持同一人物、身体比例、面部身份、发型、服装、配饰、材质和艺术风格一致。",
+    "when_to_use": "根据一张或多张角色参考图生成专业角色动作设定图与十五种标准姿态库，严格保持同一人物、身体比例、面部身份、发型、服装、配饰、材质和艺术风格一致。用于用户调用“小逻-角色动作设定”，或要求角色动作表、姿态设定板、Pose Sheet、Character Pose Sheet、全身动作拆解、动态姿势、战斗动作、施法动作、角色表演姿态和动画动作参考图时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-character-pose",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-character-prop",
+    "description": "根据一张或多张角色参考图生成专业角色道具设定图，完整盘点并拆解武器、法器、背包、首饰、发饰、戒指、耳环、项链、腰饰、挂件和特殊装备，展示整体、多视图、结构、比例、材质、颜色、纹样与中文标注。",
+    "when_to_use": "根据一张或多张角色参考图生成专业角色道具设定图，完整盘点并拆解武器、法器、背包、首饰、发饰、戒指、耳环、项链、腰饰、挂件和特殊装备，展示整体、多视图、结构、比例、材质、颜色、纹样与中文标注。用于用户调用“小逻-角色道具设定”，或要求道具设定板、Prop Sheet、Prop Design Sheet、武器拆解、法器设计、饰品拆解、装备设定、游戏道具概念图和影视道具制作参考时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-character-prop",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-character-turnaround",
+    "description": "根据一张或多张角色参考图生成专业角色设定图与三视图，严格继承人物身份、面部骨相、发型发色、肤色、身材比例、服装、配饰、材质、光影和艺术风格。",
+    "when_to_use": "根据一张或多张角色参考图生成专业角色设定图与三视图，严格继承人物身份、面部骨相、发型发色、肤色、身材比例、服装、配饰、材质、光影和艺术风格。用于用户调用“小逻-角色设定图”，或要求角色三视图、正侧背设定、角色转面图、角色设定板、人物设定表、发型拆解、面部细节、服装细节、材质参考和中文设计标注时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-character-turnaround",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-film-screenwriting",
+    "description": "将模糊创意、故事想法、题材方向或项目需求开发为具有商业价值和拍摄执行力的影视方案，覆盖创意孵化、世界观、核心冲突、人物小传、三幕结构、短剧钩子、集数规划、剧情大纲、场次设计、剧本正文、镜头化表达和五维微表演。",
+    "when_to_use": "将模糊创意、故事想法、题材方向或项目需求开发为具有商业价值和拍摄执行力的影视方案，覆盖创意孵化、世界观、核心冲突、人物小传、三幕结构、短剧钩子、集数规划、剧情大纲、场次设计、剧本正文、镜头化表达和五维微表演。用于用户调用“小逻-影视编剧创作”，或要求短剧策划、电影剧本、电视剧开发、广告剧情、人物设计、故事大纲、分集梗概、场景剧本、对白润色、剧本改写和 AI 影视生产链上游内容时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-film-screenwriting",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-film-script-analysis",
+    "description": "对剧本、故事大纲、短剧文本、广告剧情和分集梗概进行证据驱动的五层深度审计，分析宏观结构与节拍、人物动力和权力变化、影视化与五维微表演、台词语言肖像和潜台词，并最终生成《AI剧本创作规范手册》。",
+    "when_to_use": "对剧本、故事大纲、短剧文本、广告剧情和分集梗概进行证据驱动的五层深度审计，分析宏观结构与节拍、人物动力和权力变化、影视化与五维微表演、台词语言肖像和潜台词，并最终生成《AI剧本创作规范手册》。用于用户调用“小逻-影视剧本分析”，或要求剧本诊断、拉片分析、结构审计、节奏审计、人物弧光、对白分析、视觉化审计、短剧钩子分析、剧本评估和改稿建议时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-film-script-analysis",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-original-screenplay-adaptation",
+    "description": "将剧本、小说梗概、故事素材、影视 IP 设想和既有剧情深度重构为具有独立人物体系、世界背景、冲突因果、事件链、场景道具、对白和视觉表达的原创影视方案或完整剧本。",
+    "when_to_use": "将剧本、小说梗概、故事素材、影视 IP 设想和既有剧情深度重构为具有独立人物体系、世界背景、冲突因果、事件链、场景道具、对白和视觉表达的原创影视方案或完整剧本。用于用户调用“小逻-影视剧本原创改编”，或要求短剧改编、电影重构、电视剧开发、IP 原创化、故事换核、人物重建、世界观重建、剧情重构、降低相似性风险、生成原创大纲或完整改编剧本时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-original-screenplay-adaptation",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-scene-top-view-layout",
+    "description": "根据一张或多张场景参考图生成影视级九十度正交俯视布局图，完整展示房间边界、墙体、门窗、出入口、家具、功能区域、人物动线、摄影机位置、镜头方向和拍摄范围，并严格保持空间、材质、色彩与设计风格一致。",
+    "when_to_use": "根据一张或多张场景参考图生成影视级九十度正交俯视布局图，完整展示房间边界、墙体、门窗、出入口、家具、功能区域、人物动线、摄影机位置、镜头方向和拍摄范围，并严格保持空间、材质、色彩与设计风格一致。用于用户调用“小逻-场景俯视布局”，或要求 Scene Top View Layout、场景顶视图、俯视空间规划、摄影机机位图、演员走位图、虚拟摄影棚布局、影视美术规划图和 AI Drama Scene Top View Asset 时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-scene-top-view-layout",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-scene-turnaround",
+    "description": "根据一张或多张场景参考图生成专业影视级场景正交四视图设定图，输出 Front、Left、Right、Back，并严格保持房间结构、墙体、门窗、家具、空间比例、建筑风格、时代、色彩、材质、光影和摄影质感一致。",
+    "when_to_use": "根据一张或多张场景参考图生成专业影视级场景正交四视图设定图，输出 Front、Left、Right、Back，并严格保持房间结构、墙体、门窗、家具、空间比例、建筑风格、时代、色彩、材质、光影和摄影质感一致。用于用户调用“小逻-场景四视图”，或要求 Scene Turnaround Sheet、场景转面图、空间四视图、室内正交图、影视场景设定板、虚拟制作环境资产、场景一致性标准和 AI Drama Scene Asset Package 时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-scene-turnaround",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-script-to-video",
+    "description": "将中文或英文剧本转化为视觉冲击强、资产高度统一、时长精确受控的专业视频分镜脚本。",
+    "when_to_use": "将中文或英文剧本转化为视觉冲击强、资产高度统一、时长精确受控的专业视频分镜脚本。用于用户调用“小逻-剧本分镜脚本”，或要求“小逻”“剧本转视频”“生成分镜”“拆镜头”“视频提示词”“Prompt 分镜”，以及需要把剧情、台词、小说片段改编为可直接用于视频生成模型的分段镜头脚本时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-script-to-video",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-storyboard-panel",
+    "description": "将剧本、故事描述、广告创意或镜头需求转换为可直接用于影视制作与 AI 视频规划的横向故事分镜表，在十五秒内自动设计三至八个镜头，并生成镜头序号、景别、运镜、手绘分镜画面、简洁剧情提示、单镜时长和总时长。",
+    "when_to_use": "将剧本、故事描述、广告创意或镜头需求转换为可直接用于影视制作与 AI 视频规划的横向故事分镜表，在十五秒内自动设计三至八个镜头，并生成镜头序号、景别、运镜、手绘分镜画面、简洁剧情提示、单镜时长和总时长。用于用户调用“小逻-故事面板”，或要求 Storyboard Sheet、Storyboard Table、导演分镜表、广告分镜、短剧故事板、动画分镜稿、视觉预演、十五秒视频分镜和图文镜头规划时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-storyboard-panel",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-video-shot-analysis",
+    "description": "对用户上传的视频、视频片段或带时长的视频描述进行逐镜拉片，识别真实剪切点与镜内构图变化，连续标注时间码，并拆解场景、角色、服装、动作、五维微表演、景别、摄影距离、机位角度、镜头运动、构图、光影、对白、音效、环境声和背景音乐。",
+    "when_to_use": "对用户上传的视频、视频片段或带时长的视频描述进行逐镜拉片，识别真实剪切点与镜内构图变化，连续标注时间码，并拆解场景、角色、服装、动作、五维微表演、景别、摄影距离、机位角度、镜头运动、构图、光影、对白、音效、环境声和背景音乐。用于用户调用“小逻-视频拉片拆解”，或要求视频拆镜、逐镜分析、拉片报告、镜头语言分析、广告片拆解、短剧节奏拆解、摄影反推、声音设计分析和 AI 视频反向工程时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-video-shot-analysis",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-visual-storyboard-grid",
+    "description": "根据一张或多张人物、场景或剧情参考图生成三乘三纯视觉电影分镜九宫格，严格锁定人物身份、服装、场景结构、道具、色彩、光影、材质和渲染风格，并通过远景、中景、近景、特写、过肩、不同机位高度与角度构建连续叙事。",
+    "when_to_use": "根据一张或多张人物、场景或剧情参考图生成三乘三纯视觉电影分镜九宫格，严格锁定人物身份、服装、场景结构、道具、色彩、光影、材质和渲染风格，并通过远景、中景、近景、特写、过肩、不同机位高度与角度构建连续叙事。用于用户调用“小逻-视觉分镜九宫格生成”，或要求电影九宫格、纯视觉 Storyboard、九镜头预演、广告分镜板、短剧视觉分镜、连续电影截图、镜头规划和 AI 视频视觉预演时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-visual-storyboard-grid",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
+  },
+  {
+    "name": "xiaoluo-vr-panorama",
+    "description": "根据场景描述或环境参考图设计并生成适用于 VR 浏览器、VR 头显、Unity、Unreal Engine 和虚拟空间漫游的完整球形全景环境，强制采用水平 360 度、垂直 180 度、2:1 等距柱状投影，并校验左右接缝、天顶、地底、地平线、空间尺度、材质与光照连续性。",
+    "when_to_use": "根据场景描述或环境参考图设计并生成适用于 VR 浏览器、VR 头显、Unity、Unreal Engine 和虚拟空间漫游的完整球形全景环境，强制采用水平 360 度、垂直 180 度、2:1 等距柱状投影，并校验左右接缝、天顶、地底、地平线、空间尺度、材质与光照连续性。用于用户调用“小逻-VR场景图”，或要求 720° VR 全景、360 全景图、Equirectangular Panorama、VR 环境贴图、球形天空盒、虚拟展厅、沉浸式场景和无缝全景环境时。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/xiaoluo-vr-panorama",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "人物",
+      "剧本",
+      "分镜"
+    ]
   },
   {
     "name": "ai-shortfilm-prompts",
@@ -751,18 +984,95 @@
     "category": "分镜与提示词"
   },
   {
-    "name": "short-drama-skills",
-    "description": "LuxReal 短剧提示词：叙事拆解、情绪刻画、动态描述、剧情拆分、视频提示词润色。",
-    "when_to_use": "处理短剧素材时，需要叙事拆解、情绪表达或视频提示词润色。",
-    "url": "https://github.com/YvonneMovingon/short-drama-skills",
+    "name": "short-drama-action-description",
+    "description": "将动作戏转成具有物理反馈、空间连续性和节奏层次的镜头描述。",
+    "when_to_use": "将动作戏转成具有物理反馈、空间连续性和节奏层次的镜头描述。适用于追逐、打斗及动态场面。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/short-drama-action-description",
+    "category": "分镜与提示词",
     "tags": [
       "改编",
       "剧本",
       "审稿",
-      "提示词",
-      "提示词资源"
-    ],
-    "category": "分镜与提示词"
+      "提示词"
+    ]
+  },
+  {
+    "name": "short-drama-continuous-shot-groups",
+    "description": "将已有分镜按剧情、场景、动作和视线连续性合并成连贯视频片段。",
+    "when_to_use": "将已有分镜按剧情、场景、动作和视线连续性合并成连贯视频片段。适用于镜头碎片化后的重组。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/short-drama-continuous-shot-groups",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "剧本",
+      "审稿",
+      "提示词"
+    ]
+  },
+  {
+    "name": "short-drama-dramatic-action-polish",
+    "description": "将戏剧冲突段落润色为高能蒙太奇镜头提示词，强化信息密度和视觉反差。",
+    "when_to_use": "将戏剧冲突段落润色为高能蒙太奇镜头提示词，强化信息密度和视觉反差。适用于高张力剧情段落。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/short-drama-dramatic-action-polish",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "剧本",
+      "审稿",
+      "提示词"
+    ]
+  },
+  {
+    "name": "short-drama-emotional-dialogue",
+    "description": "依据权力变化、信息单位和人物反应拆解对话镜头。",
+    "when_to_use": "依据权力变化、信息单位和人物反应拆解对话镜头。适用于冲突对话与细腻情绪段落。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/short-drama-emotional-dialogue",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "剧本",
+      "审稿",
+      "提示词"
+    ]
+  },
+  {
+    "name": "short-drama-lyrical-scene-polish",
+    "description": "将情感段落润色为克制、细腻的影视提示词。",
+    "when_to_use": "将情感段落润色为克制、细腻的影视提示词。适用于内心独白、诗意氛围与慢节奏情绪场景。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/short-drama-lyrical-scene-polish",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "剧本",
+      "审稿",
+      "提示词"
+    ]
+  },
+  {
+    "name": "short-drama-narrative-breakdown",
+    "description": "将短剧片段拆成保持语义、角色和场景连续性的分镜。",
+    "when_to_use": "将短剧片段拆成保持语义、角色和场景连续性的分镜。适用于从剧情正文开始做通用叙事拆解。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/short-drama-narrative-breakdown",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "剧本",
+      "审稿",
+      "提示词"
+    ]
+  },
+  {
+    "name": "short-drama-video-prompt-polish",
+    "description": "保留角色资产和剧情语义，润色单段视频的镜头提示词。",
+    "when_to_use": "保留角色资产和剧情语义，润色单段视频的镜头提示词。适用于已有视频提示词的细化。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/short-drama-video-prompt-polish",
+    "category": "分镜与提示词",
+    "tags": [
+      "改编",
+      "剧本",
+      "审稿",
+      "提示词"
+    ]
   },
   {
     "name": "seedance-2-5-fight-director",
@@ -1036,16 +1346,16 @@
     ]
   },
   {
-    "name": "shanyin-screenwriting-master",
-    "description": "山音超级编剧大师：概念超短片、叙事短片、长片、多集剧集四种格式的人物、大纲、场景拆解和完整剧本。",
-    "when_to_use": "创作短片、长片或多集剧集，需要从人物和大纲推进到场景与完整剧本。",
-    "url": "https://github.com/Shanyin-ai/shanyin-screenwriting-master",
+    "name": "screenwriting-master",
+    "description": "山音超级编剧大师——由 @山音 设计的全格式影视编剧技能。",
+    "when_to_use": "山音超级编剧大师——由 @山音 设计的全格式影视编剧技能。 覆盖从1-3分钟概念超短片到90分钟电影长片、多集剧集的全格式剧本创作。 支持四种格式：概念超短片（how-to-tell/what-if）、5-10分钟叙事短片、90分钟长片（商业/文艺）、多集剧集。 覆盖从人物设计、结构大纲、场景拆解、到完整剧本写作的全流程。 当用户提到写剧本、写短片、写电影、写剧集、编剧、故事大纲、人物设计、节拍表、beat sheet、 Save the Cat、Story Circle、McKee、场景拆解、剧本医生、概念短片、what-if短片、how-to-tell、 或任何涉及影视剧本创作的请求时，务必使用此技能。 即使用户只是说\"帮我想个故事\"\"写个剧本\"\"这场戏不对\"\"帮我想个点子\"也应触发。\n",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/screenwriting-master",
+    "category": "编剧方法",
     "tags": [
       "人物",
       "集纲",
       "剧本"
-    ],
-    "category": "编剧方法"
+    ]
   },
   {
     "name": "write-chinese-long-screenplay",
