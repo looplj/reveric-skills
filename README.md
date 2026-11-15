@@ -120,6 +120,7 @@
 | <a href="https://github.com/PenglongHuang/chinese-novelist-skill">chinese-novelist-skill</a> | 通过问答确定题材、人物与冲突，生成小说大纲、人物档案和分章正文，附章节校验与润色流程。 | 故事开发 | 小说、大纲、人物、章节写作 |
 | <a href="https://github.com/lingfengQAQ/webnovel-writer">webnovel-writer</a> | 长篇网文创作技能集，覆盖项目初始化、卷章规划、设定查询、章节写作与审查，配套项目状态和脚本工具。 | 故事开发 | 长篇网文、大纲、设定管理、审稿 |
 | <a href="https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL">De-AI-Prompt-Enhancer-Writer-Booster-SKILL</a> | 包含 de-AI-writing 与 good-writing，分别用于中文改写精修和特定作者风格复现，支持结构保真翻译与按需读取参考资料。 | 文字润色 | 中文、去AI味、文风、翻译 |
+| <a href="https://github.com/larashero3-dotcom/writing-dna-skill">writing-dna-skill</a> | 写作蒸馏器：从一批完整文章中拆出语言、结构、选题、素材、认知框架和视觉风格，生成可复用的 Writing DNA，供后续按该作者风格写作。 | 文字润色 | 文风、风格蒸馏、作者风格 |
 | <a href="https://github.com/larashero3-dotcom/lieflat-less-ai-tone">lieflat-less-ai-tone</a> | 按明确规则清理中文成稿中的模板句式、重复结构与翻译腔，保留未命中规则的文字和原有文章框架。 | 文字润色 | 中文、去AI味、成稿精修、保真改写 |
 | <a href="https://github.com/baibanbao/qu-ai-wei">baibanbao/qu-ai-wei</a> | 结合王佩写作系统、humanizer-zh 与 lieflat-less-ai-tone，区分自家稿编辑和白名单清理，保留作者声音与事实边界。 | 文字润色 | 中文、去AI味、编辑、作者声音 |
 | <a href="https://github.com/Emily2040/seedance-2.0">seedance-2.0</a> | 模块化 Seedance 2.0 视频提示词技能集，覆盖创意访谈、运镜、灯光、角色一致性、片段续接、多镜头编排与结果诊断。 | 分镜与提示词 | Seedance、运镜、灯光、角色一致性、连续性 |

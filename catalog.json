@@ -1462,6 +1462,18 @@
     ]
   },
   {
+    "name": "writing-dna-skill",
+    "description": "写作蒸馏器：从一批完整文章中拆出语言、结构、选题、素材、认知框架和视觉风格，生成可复用的 Writing DNA，供后续按该作者风格写作。",
+    "when_to_use": "需要分析作者、账号或自己的稳定文风，或在写作前按已蒸馏的风格规则保持表达一致。",
+    "url": "https://github.com/larashero3-dotcom/writing-dna-skill",
+    "category": "文字润色",
+    "tags": [
+      "文风",
+      "风格蒸馏",
+      "作者风格"
+    ]
+  },
+  {
     "name": "lieflat-less-ai-tone",
     "description": "按明确规则清理中文成稿中的模板句式、重复结构与翻译腔，保留未命中规则的文字和原有文章框架。",
     "when_to_use": "成稿只需轻度去除模板表达，希望保留信息、结构与作者原有声音。",
