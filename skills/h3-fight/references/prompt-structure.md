@@ -85,4 +85,4 @@ the camera looks over <Subject 4>'s shoulder at <Subject 1>'s face, his eyes loc
 
 ## 衔接段
 
-登场、对峙、变身、收刀走索引里的衔接镜头，不按打戏的六个位置填满。变身前的造型放 `<Picture 1>`，变身后的造型放 `<Picture 4>`，提示词里写 `<Picture 4>`。
+登场、对峙、变身走索引里的衔接镜头，不按打戏的六个位置填满。变身前的造型放 `<Picture 1>`，变身后的造型放 `<Picture 4>`，提示词里写 `<Picture 4>`。

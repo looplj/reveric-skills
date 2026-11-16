@@ -6,13 +6,6 @@
 
 ## C1-2
 
-- 来源：C1
-- 等级：A
-- 打法：以小打大
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：646
-
 贴地跟拍；巨爪砸下她零延迟闪开，砸出深坑；慢动作后节奏翻倍；冲上巨兽前臂，三刀在黑甲上撕出发光裂口，黑烟喷出
 
 ```text
@@ -20,13 +13,6 @@ At 00:01.000, the camera cuts to a fast tracking shot at ground level. The beast
 ```
 
 ## C2-2
-
-- 来源：C2
-- 等级：A
-- 打法：一打多
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：593
 
 沿桥跟拍；三面长戟刺来零延迟闪开；雪花慢动作停在空中后节奏翻倍；贴地切穿前排，横斩上挑旋斩，傀儡从关节断开，戟杆折断飞出栏杆
 
@@ -36,13 +22,6 @@ At 00:01.000, the camera cuts to a dynamic tracking shot along the bridge. Halbe
 
 ## C3-2
 
-- 来源：C3
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：584
-
 环绕两人的跟拍；对手连续快刺她一一格开，每次溅出火花；两刀相抵慢动作后节奏翻倍；她钻过防守三刀逼退他，他袖子被划开，身后石柱被整齐劈成两半
 
 ```text
@@ -50,13 +29,6 @@ At 00:01.000, the camera cuts to a dynamic tracking shot circling the two fighte
 ```
 
 ## X1-2
-
-- 来源：X1
-- 等级：B
-- 打法：一打多
-- 风格：3D 仙侠（长枪）
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：250
 
 跟拍；三个魔兵挥斧，枪杆格开第一下，三连快刺织出蓝光网，盔甲击碎成冰晶
 
@@ -66,13 +38,6 @@ At 00:01.500, dynamic tracking shot. Three armored demon soldiers attack with ax
 
 ## X2-2
 
-- 来源：X2
-- 等级：B
-- 打法：一打多
-- 风格：真人武侠
-- 五样：运镜、招式（2/5）
-- 字数：207
-
 手持跟拍；和两个刺客快打六招，躲过横斩，划伤一人手臂，把另一人踢进竹子，竹子弯折弹回
 
 ```text
@@ -80,13 +45,6 @@ At 00:02.000, handheld tracking shot. She trades six fast strikes with the two a
 ```
 
 ## X3-1
-
-- 来源：X3
-- 等级：B
-- 打法：一打多
-- 风格：真人现代徒手
-- 五样：运镜、招式（2/5）
-- 字数：190
 
 中景；混混挥铁管，他低头躲过，雨水从铁管上甩出，左右连击打肋骨和下巴
 
@@ -96,13 +54,6 @@ Medium shot. At 00:00.300 a thug swings a metal pipe at <Subject 1>; he ducks un
 
 ## X3-2
 
-- 来源：X3
-- 等级：B
-- 打法：一打多
-- 风格：真人现代徒手
-- 五样：运镜、招式、后果（3/5）
-- 字数：200
-
 手持跟拍；两人冲上来，他挡一拳肘击一人面门，揪住另一人衣领扔进一排铁垃圾桶，桶翻滚散开
 
 ```text
@@ -111,72 +62,13 @@ At 00:02.000, handheld tracking shot. Two thugs rush him; he blocks a punch, elb
 
 ## X4-2
 
-- 来源：X4
-- 等级：B
-- 打法：以小打大
-- 风格：2D 日漫
-- 五样：运镜、招式、特效（3/5）
-- 字数：233
-
 跟拍；妖怪挥爪，他用刀格开三下，每次相撞炸出金色火花，钻到臂下斩过妖怪侧身留下火痕
 
 ```text
 At 00:02.000, dynamic tracking shot. The demon swipes with its claws; he deflects three strikes with his katana, each clash bursting into golden sparks, then slips under the arm and cuts across the demon's side with a trail of flame.
 ```
 
-## 旧段3-2
-
-- 来源：旧段3
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：566
-
-环绕两人跟拍；他连续快刺，她零延迟一一格开，每次格挡火花洒满石地；两刀相抵慢动作磨刃后节奏翻倍；满平台高速对砍，每次相撞震开一圈落叶，身后铜钟在架上颤动
-
-```text
-At 00:01.000, the camera cuts to a dynamic tracking shot circling <Subject 1> and <Subject 4>. <Subject 4> attacks with a flurry of fast thrusts; <Subject 1> deflects each one with zero lag, every block throwing a spray of sparks across the stone floor. Brief slow-motion as their blades lock and grind against each other, crimson and purple light pressing face to face, then the rhythm instantly doubles. They trade blows across the terrace at blinding speed, each impact blasting a ring of fallen leaves outward, the bronze bell trembling on its frame behind them.
-```
-
-## 旧段4-2
-
-- 来源：旧段4
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：527
-
-空中下坠跟拍两人；他快速斜劈连招，她空中扭身零延迟格开，火花向上掠过镜头；自由落体中刀锋相抵慢动作，云雾撕过，然后节奏翻倍；她蹬他的剑翻到他上方
-
-```text
-At 00:01.000, the camera cuts to a tracking shot falling alongside the two fighters in mid-air. <Subject 4> slashes at her in a fast diagonal combo; <Subject 1> twists in the air and deflects each strike with zero lag, sparks streaming upward past the camera. Brief slow-motion as their blades lock face to face in free fall, crimson light and purple flame grinding against each other, cloud mist tearing past them; then the rhythm instantly doubles. She kicks off his blade, flips backward over him and gains height above him.
-```
-
-## 旧段5-2
-
-- 来源：旧段5
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、特效、节奏（4/5）
-- 字数：548
-
-近距离跟拍；他紫焰三连（斜劈、直刺、旋身反手斩），每刀留下燃烧的紫弧；她零延迟一一格开，火花洒在脸和衣服上；刀锋相抵慢动作她用肩顶回去，然后节奏翻倍满院对砍，落叶燃成火星
-
-```text
-At 00:01.000, the camera cuts to a dynamic close-range tracking shot. <Subject 4> attacks furiously with a fast purple-flame combo—diagonal slash, straight thrust, spinning backhand slash—each swing leaving a burning violet arc in the air. <Subject 1> deflects every strike with zero lag, sparks spraying across her face and robe. Brief slow-motion as their blades lock and she presses him back with her shoulder, then the rhythm instantly doubles and they trade blows across the courtyard, fallen leaves bursting into flame and embers around them.
-```
-
 ## k3b-3
-
-- 来源：k3b
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、特效、节奏（4/5）
-- 字数：708
 
 环绕两人的跟拍；他快刺快劈，她零延迟一一格开，每次火花洒满石地；刀锋相抵慢动作磨刃后节奏翻倍；她贴地钻过他的防守留下残影，三连斩（横斩、上挑、旋斩）各留红弧；他被一步步逼退，身后铜钟在架上颤动，节奏无拖沓
 
@@ -186,13 +78,6 @@ At 00:04.000, the camera cuts to a dynamic tracking shot circling <Subject 1> an
 
 ## 日漫A1-2
 
-- 来源：日漫A1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：725
-
 环绕跟拍；反派快拳，主角前臂零延迟格挡；慢动作低头躲过勾拳后节奏翻倍；身体一直在动，拳影残像
 
 ```text
@@ -200,13 +85,6 @@ At 00:01.000, the camera cuts to a dynamic tracking shot circling <Subject 1> an
 ```
 
 ## 日漫A2-3
-
-- 来源：日漫A2
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：673
 
 贴着下坠跟拍；反派连拳，主角空中扭身零延迟格开；慢动作躲过擦发一拳后节奏翻倍；蹬胸翻到上方留残影
 
@@ -216,13 +94,6 @@ At 00:04.000, the camera cuts to a tracking shot falling alongside the two fight
 
 ## 日漫A3-2
 
-- 来源：日漫A3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：797
-
 近距离跟拍；反派勾拳直拳反手连击各留绿弧，主角零延迟格开；慢动作钻进反手肩撞胸口，节奏翻倍满坑对打
 
 ```text
@@ -230,13 +101,6 @@ At 00:01.000, the camera cuts to a dynamic close-range tracking shot. <Subject 4
 ```
 
 ## 日漫B1-2
-
-- 来源：日漫B1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：712
 
 绕两人跟拍；父亲超音速冲出，反派瞬移留残影到背后；父亲佯攻上路、沉身打肚子，反派徒手接住拳；父亲转身背拳，反派头一偏擦脸而过、眼都不眨
 
@@ -246,13 +110,6 @@ At 00:01.000, the camera cuts to a dynamic tracking shot circling the two fighte
 
 ## 日漫B3-4
 
-- 来源：日漫B3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：543
-
 贴地快速跟拍；反派瞬移留残影到师父面前，掐喉摔倒；师父用腿缠住反派手臂，两人在碎石上翻滚，最后被单手掐喉按在地上，披风铺开
 
 ```text
@@ -260,13 +117,6 @@ At 00:07.000, the camera cuts to a fast low tracking shot along the ground. <Sub
 ```
 
 ## 日漫B5-2
-
-- 来源：日漫B5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：663
 
 绕两人跟拍；反派勾拳，少年空手拍开、进身一肘打进肋下；反派甩尾刺头，少年不看就徒手接住甩开；反派踢腿，少年单臂零延迟挡下，反倒是反派滑退，节奏翻倍
 
@@ -276,13 +126,6 @@ At 00:01.000, the camera cuts to a dynamic tracking shot circling the two fighte
 
 ## 日漫B6-2
 
-- 来源：日漫B6
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：581
-
 绕两人跟拍；反派从擂台撕起巨大断石板一块接一块砸过去，少年零延迟留残影全部撞碎；反派扑上来勾拳，少年低头躲过（拳擦过头发），一肩撞进反派胸口，把他撞得打滚，节奏翻倍
 
 ```text
@@ -291,13 +134,6 @@ At 00:01.000, the camera cuts to a dynamic tracking shot circling the two fighte
 
 ## 日漫C1-2
 
-- 来源：日漫C1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、节奏（4/5）
-- 字数：606
-
 环绕跟拍；刺客边走边打指弹，主角橡胶身体扭曲弯折零延迟躲开，地上一排弹孔；慢动作后节奏翻倍，主角伸腿横扫整个屋顶，刺客跳过，腿把残墙劈成两半
 
 ```text
@@ -305,13 +141,6 @@ At 00:01.000, the camera cuts to a dynamic tracking shot circling <Subject 1>. <
 ```
 
 ## 日漫C2-2
-
-- 来源：日漫C2
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：539
 
 环绕跟拍；主角四面乱打，每拳都打中残影，刺客左右后瞬移，从背后零延迟弹指弹；慢动作主角瞪眼转身，节奏翻倍，四周一圈黑西装残影
 

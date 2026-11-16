@@ -4,29 +4,7 @@
 
 等级 A 可以整句搬。等级 B 只作打法参考。衔接块不填打戏镜头。
 
-## 旧段3-4
-
-- 来源：旧段3
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：544
-
-360 度环绕切她的冷脸特写，眼睛跟着他旋身横扫一记紫焰斩；她下腰毫厘躲过，焰浪擦着脸扫过削断几缕银发；焰浪劈断身后枫树枝叶；她一个动作弹回站直，刀已举起
-
-```text
-At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 1>, then instantly cuts to a facial close-up. Cold close-up locking on her face, eyes tracking <Subject 4> as he spins and swings a wide horizontal slash wreathed in purple flame. She bends backward under it by a hair, the flame wave sweeping just over her face and severing a few strands of silver hair; behind her the wave cuts through the branches of the red maple tree, leaves exploding into the air. She springs back upright in one fluid motion, her Tachi already raised.
-```
-
 ## k3b-4
-
-- 来源：k3b
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：576
 
 360 度快速环绕两人后切脸部冷特写；她盯着他旋身横扫一记紫焰斩，下腰毫厘躲过，焰浪擦脸削断几缕银发；焰浪把她身后石柱整齐劈成两半，上半截砸地扬尘；她一个动作弹回站直，刀已举起
 
@@ -36,13 +14,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around the two fighters, the
 
 ## 日漫A2-4
 
-- 来源：日漫A2
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：766
-
 360 环绕切主角怒脸特写；反派连发气弹，主角瞬移般绕着他转，只剩金色残影；反派笑容消失转头找人
 
 ```text
@@ -50,13 +21,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 1> as he han
 ```
 
 ## 日漫A5-2
-
-- 来源：日漫A5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：535
 
 环绕跟拍；反派狂乱连击加三连（直拳、旋踢、尾刺）各留绿弧，主角不抬手零延迟侧身躲开，每次落空身后炸开一圈；反派从愤怒到不敢相信
 
@@ -66,13 +30,6 @@ At 00:01.000, the camera cuts to a dynamic tracking shot circling the two fighte
 
 ## 日漫B6-3
 
-- 来源：日漫B6
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：708
-
 中景跟拍、慢动作；反派看见少年身后坑里受伤的师父，朝他打出巨大黄绿气弹；少年零延迟闪到前面用左臂挡下卸力，爆炸后左臂软软垂下、袖子撕破；定格颤抖的左手特写
 
 ```text
@@ -80,13 +37,6 @@ At 00:04.000, the camera cuts to a medium tracking shot, brief slow-motion. <Sub
 ```
 
 ## 日漫C2-3
-
-- 来源：日漫C2
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：469
 
 低机位侧跟；主角假装往前出拳，另一只手臂偷偷伸到背后，刺客一出现就被橡胶手臂缠住拉回来，额头对额头一记头槌，帽子飞掉（把“瞬移”反制回去）
 
@@ -96,13 +46,6 @@ At 00:04.000, the camera cuts to a fast low side-tracking shot. <Subject 1> fein
 
 ## 日漫C4-4
 
-- 来源：日漫C4
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：535
-
 绕着两人快速跟拍；豹人朝左一爪扑来划出白弧，主角化成粉色蒸汽零延迟瞬移，爪子撕碎残影；主角出现在豹人背后上方，两条手臂往后拉得很长
 
 ```text
@@ -110,13 +53,6 @@ At 00:07.000, the camera cuts to a fast tracking shot circling the two fighters 
 ```
 
 ## 日漫C5-1
-
-- 来源：日漫C5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：630
 
 低机位接首帧，主角在坑左边朝右；豹人从右边烟尘里怒吼冲出，瞬移到主角面前，脚下石地裂成一圈；主角一记超音速伸缩喷射拳只打中残影，风压把烟尘吹开一道直线；一秒内豹人从右扑上来伸爪掐喉
 

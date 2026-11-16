@@ -4,29 +4,7 @@
 
 等级 A 可以整句搬。等级 B 只作打法参考。衔接块不填打戏镜头。
 
-## 旧段4-6
-
-- 来源：旧段4
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：509
-
-平台上广角低机位，构图稳定；两人一起砸落石地，碎砖尘土环形炸开，撞倒一根断柱；从尘土里弹开各自低蹲在冒烟弹坑两侧，她在左他在右，血月下对视
-
-```text
-At 00:12.000, the camera cuts to a wide low-angle shot on the temple terrace, stable framing. The two fighters crash down onto the stone floor in a single impact, a ring of shattered tiles and dust exploding outward and toppling a broken pillar. Out of the dust they spring apart and land in low crouches on opposite sides of a smoking crater, <Subject 1> on the left with her Tachi glowing crimson, <Subject 4> on the right with his jian burning purple, both staring each other down under the blood-red moon.
-```
-
 ## 日漫A2-6
-
-- 来源：日漫A2
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果（3/5）
-- 字数：648
 
 擂台广角：砸出大坑，两人弹开各蹲坑两边，主角怒视、反派不再笑
 
@@ -36,13 +14,6 @@ At 00:12.000, the camera cuts to a wide low-angle shot on the arena, stable fram
 
 ## 日漫B4-6
 
-- 来源：日漫B4
-- 等级：衔接
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：558
-
 拉远大全景；少年在左朝右，平静得可怕，手垂在身侧；反派在右朝左退半步，额头一滴汗，又硬撑起笑摆架势；少年慢慢迈一步，脚下石头裂开
 
 ```text
@@ -50,13 +21,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 ```
 
 ## 日漫C1-6
-
-- 来源：日漫C1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、节奏（4/5）
-- 字数：461
 
 拉远大全景；主角在左甩手吹红手掌，刺客在右掸西装、铁色褪去，鸟落回肩上；两人重摆架势
 
@@ -66,13 +30,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 
 ## 日漫C2-6
 
-- 来源：日漫C2
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：424
-
 拉远大全景；主角在左站在墙洞里捏指节、压帽子，刺客在右捡帽子戴上、整领带，鸟落肩
 
 ```text
@@ -80,13 +37,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 ```
 
 ## 日漫C3-6
-
-- 来源：日漫C3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：424
 
 拉远大全景；主角在左冒蒸汽喘气，刺客在右从冒烟的坑边慢慢站起，西装破了嘴角流血，眼睛开始发光、肌肉鼓胀（为下一段豹人变身铺垫）
 

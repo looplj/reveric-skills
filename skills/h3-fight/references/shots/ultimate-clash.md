@@ -4,29 +4,7 @@
 
 等级 A 可以整句搬。等级 B 只作打法参考。衔接块不填打戏镜头。
 
-## 旧段4-3
-
-- 来源：旧段4
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：516
-
-俯拍大全景从她身后往下看；她翻身朝他放锥形红色剑气，他回以巨大紫焰浪；两股能量在中间相撞，炸成刺眼的红紫光球，在云海上炸出一个洞；下方平台碎石连环爆炸，镜头震动
-
-```text
-At 00:04.000, the camera cuts to a high-angle wide shot looking down past <Subject 1> toward the clouds. She flips crisply and releases a cone-shaped crimson sword qi storm downward at <Subject 4>; he answers with a huge sweeping wave of purple flame. The two energies collide between them and explode in a blinding sphere of red and violet light, blasting a hole through the sea of clouds; far below, debris rains onto the temple terrace in chain explosions, high-frequency camera shake, intense and violent impact.
-```
-
 ## 日漫A3-3
-
-- 来源：日漫A3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：714
 
 俯拍上升摇臂；两人退到坑两边，主角双掌蓝色气功波、反派黄绿气功波，中间对撞成光球来回僵持，石块浮起连环爆
 
@@ -36,13 +14,6 @@ At 00:04.000, the camera cuts to a high-angle wide shot with a rising crane shot
 
 ## 日漫B4-3
 
-- 来源：日漫B4
-- 等级：衔接
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：666
-
 广角低机位高空上升摇臂；少年仰头嘶吼，气焰冲天成柱，闪电打在周围地面，大地隆起、巨石浮空，冲击波扩散；反派抬臂挡脸卸力，笑容消失，高频震动
 
 ```text
@@ -50,13 +21,6 @@ At 00:04.000, the camera cuts to a wide-angle low angle with a high-altitude ris
 ```
 
 ## 日漫B7-1
-
-- 来源：日漫B7
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：637
 
 极低角度拉远大全景接首帧，少年地面左、反派天上右；一秒内反派双掌朝下零延迟发巨大蓝白光波，少年单手朝上超音速回击，两道波在半空撞成巨大光球，冲击波把荒野尘土压平、残石粉碎
 
@@ -66,13 +30,6 @@ Extreme low-angle pull-back wide shot continuing from the first frame, <Subject 
 
 ## 日漫B8-3
 
-- 来源：日漫B8
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：685
-
 360 快速环绕父子后切广角低机位高空上升摇臂；少年仰头嘶吼，身后半透明的父亲同一个姿势；气焰带闪电炸开，冲击波把地面压平成巨环，单手波零延迟暴涨数倍、高频震动；节奏翻倍，对撞点超音速反推上天
 
 ```text
@@ -80,13 +37,6 @@ At 00:04.000, the camera orbits 360 degrees rapidly around father and son, then 
 ```
 
 ## 日漫C3-5
-
-- 来源：日漫C3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：410
 
 低机位侧拍定格；刺客翻出坑踢出气刃，对上主角的喷射鞭腿，空中对撞一闪；主角像橡胶一样弯折卸力，滑退拖着火花和蒸汽
 

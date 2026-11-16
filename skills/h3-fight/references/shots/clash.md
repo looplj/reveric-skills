@@ -6,57 +6,13 @@
 
 ## C3-1
 
-- 来源：C3
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：688
-
 极低角度大全景隔着平台对峙，落叶飘过；两人同时超音速冲向对方，地砖从两边连锁裂开相向而来；两刀相撞特写定格，红紫光炸出火花
 
 ```text
 Extreme low-angle wide shot starting static on <Subject 1> and the black-robed rival facing each other across the temple terrace, leaves drifting between them. Within the first 1 second, both burst forward at the same instant in a supersonic charge; the stone tiles crack and lift in two chains racing toward each other, dust and leaves blasting outward. Her silver-white hair and white robe are pulled straight back by wind pressure, creating a sharp, knife-edge silhouette. Mid-charge she draws her Tachi; the camera freezes on a close-up of the two blades meeting: crimson and purple light clash in a burst of sparks that dominates the frame, signifying an explosion of killing intent.
 ```
 
-## 旧段3-1
-
-- 来源：旧段3
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：689
-
-极低角度大全景两人蹲成冲锋架势；一秒内同时超音速冲出，地砖两串裂纹相向而来，尘土落叶炸开；风压拉直衣发；冲锋中拔刀，两刀相撞特写定格，红紫火花占满画面
-
-```text
-Extreme low-angle wide shot starting static on <Subject 1> and <Subject 4> crouched in charging stances across the temple terrace, leaves drifting between them. Within the first 1 second, both burst forward at the same instant in a supersonic charge; the stone tiles crack and lift in two chains racing toward each other, dust and leaves blasting outward. Her silver-white hair and white robe are pulled straight back by wind pressure, creating a sharp, knife-edge silhouette. Mid-charge she draws her Tachi; the camera freezes on a close-up of the two blades meeting: crimson and purple light clash in a burst of sparks that dominates the frame, signifying an explosion of killing intent.
-```
-
-## 旧段5-1
-
-- 来源：旧段5
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：525
-
-极低角度大全景，两人蹲在冒烟弹坑两侧；一秒内同时冲出，尘烟被撕成两条隧道，碎砖在脚后翻起；她贴地滑过烟下，两人在坑中心刀锋相撞，交叉的刀特写定格，红紫火花炸满画面
-
-```text
-Extreme low-angle wide shot starting static on <Subject 1> and <Subject 4> crouched on opposite sides of a smoking crater on the temple terrace. Within the first 1 second, both burst forward through the dust at the same instant; the dust cloud is torn apart in two tunnels, broken tiles flipping up behind their feet. She slides low under the smoke and they meet at the center of the crater, blades crashing together; the camera freezes on a close-up of the crossed blades as crimson and purple sparks burst across the frame.
-```
-
 ## k3b-2
-
-- 来源：k3b
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：631
 
 切回极低角度大全景；两人同时超音速冲锋，她冲锋中拔刀刀身燃起红光；地砖两串裂纹相向而来，尘土落叶炸开；风压拉直衣发；两刀相撞特写定格，红紫火花占满画面
 
@@ -66,13 +22,6 @@ At 00:02.000, the camera cuts back to the extreme low-angle wide shot. Both burs
 
 ## k4d-1
 
-- 来源：k4d
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：742
-
 接首帧两刀交叉相抵特写，火花炸开；1 秒内推开切极低角度上升摇臂；两人同时超音速跃向血月，脚下地砖连锁塌裂碎石喷射，留下两个小坑和一圈落叶；风压拉直衣发
 
 ```text
@@ -80,13 +29,6 @@ Close-up continuing from the first frame: their blades are crossed in an X and l
 ```
 
 ## 日漫A1-1
-
-- 来源：日漫A1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：950
 
 擂台两头蹲着开气，一秒内同时超音速冲锋，地砖两串裂纹相向；两拳相撞特写定格，白光冲击圈；主角严肃、反派冷笑
 
@@ -96,13 +38,6 @@ Extreme low-angle wide shot starting static on <Subject 1> and <Subject 4> crouc
 
 ## 日漫A3-1
 
-- 来源：日漫A3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：812
-
 坑两边同时冲出，烟尘撕成两条隧道，裂纹连锁；坑中心两拳相撞特写定格
 
 ```text
@@ -110,13 +45,6 @@ Extreme low-angle wide shot continuing from the first frame, starting static on 
 ```
 
 ## 日漫A5-1
-
-- 来源：日漫A5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、节奏（4/5）
-- 字数：566
 
 坑两边对峙，一秒内反派绝望怒吼超音速冲来，地砖连锁塌；主角不动，长发被风压拉直，定格在他平静的眼睛
 
@@ -126,13 +54,6 @@ Extreme low-angle wide shot continuing from the first frame, starting static on 
 
 ## 日漫B3-2
 
-- 来源：日漫B3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：500
-
 绕两人跟拍；前臂对砸，铃响般一声，冲击波扬尘，两人各滑退一步；同一瞬间互相出拳都打中（同时中拳），脸都被打偏，滑退对视，节奏翻倍
 
 ```text
@@ -140,13 +61,6 @@ At 00:01.000, the camera cuts to a dynamic tracking shot circling <Subject 5> an
 ```
 
 ## 日漫B6-1
-
-- 来源：日漫B6
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：501
 
 极低角度大全景接首帧；一秒内反派怒吼超音速冲来，少年迎上，两拳正面相撞（全片唯一一次对拳），冲击波把地面刻出一圈、石板翻起粉碎，被轰退的是反派
 

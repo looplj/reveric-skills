@@ -6,13 +6,6 @@
 
 ## C1-6
 
-- 来源：C1
-- 等级：A
-- 打法：以小打大
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：585
-
 缓慢拉远大全景；半蹲落地尘土成圈；身后巨兽塌成黑烟、紫眼熄灭；起身持刀冷眼望地平线，衣发翻飞
 
 ```text
@@ -20,13 +13,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 ```
 
 ## C2-6
-
-- 来源：C2
-- 等级：A
-- 打法：一打多
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：585
 
 缓慢拉远大全景；半座桥塌进峡谷；她独自站在剩下的桥上，刀身红光融化落雪，冷眼望桥那头，衣发翻飞
 
@@ -36,13 +22,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 
 ## C3-6
 
-- 来源：C3
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：503
-
 缓慢拉远大全景；对手单膝跪地剑被打飞，黑袍破烂冒烟；她刀平举抵住他喉咙，刀身残留红光；尘土落定落叶飘下，她抬眼望云海
 
 ```text
@@ -50,13 +29,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 ```
 
 ## X1-5
-
-- 来源：X1
-- 等级：B
-- 打法：一打多
-- 风格：3D 仙侠（长枪）
-- 五样：运镜、招式、后果（3/5）
-- 字数：187
 
 缓慢拉远大全景；冻住的敌人在身后碎成冰片；落地收枪，抬眼望黑暗的山门
 
@@ -66,13 +38,6 @@ At 00:08.500, slow pull-back wide shot. The frozen soldiers shatter into ice fra
 
 ## X2-5
 
-- 来源：X2
-- 等级：B
-- 打法：一打多
-- 风格：真人武侠
-- 五样：运镜、招式（2/5）
-- 字数：163
-
 广角；最后一个刺客进攻，她从刀下旋身钻过，反手一剑收尾，收剑入鞘，对方倒进落叶
 
 ```text
@@ -81,57 +46,13 @@ At 00:08.500, wide shot. The last assassin attacks; she spins under his saber an
 
 ## X3-5
 
-- 来源：X3
-- 等级：B
-- 打法：一打多
-- 风格：真人现代徒手
-- 五样：运镜、招式（2/5）
-- 字数：190
-
 广角；最后一人犹豫后进攻，他接住拳头扭臂扫腿，把对方摔进水坑，独自在雨里喘气
 
 ```text
 At 00:08.000, wide shot. The last thug hesitates, then attacks; he catches the punch, twists the arm and sweeps the legs, dropping him into a puddle, then stands alone breathing in the rain.
 ```
 
-## 旧段5-6
-
-- 来源：旧段5
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：513
-
-缓慢拉远大全景，构图稳定；他单膝跪地缴械，黑袍破烂冒烟喘气；她站在他面前刀平举抵喉，刀身残留红光；他的剑插在身后铜钟上紫焰闪烁；尘土落定，血月下落叶飘下
-
-```text
-At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable framing. <Subject 4> drops to one knee, disarmed, his black robe torn and smoking, breathing hard. <Subject 1> steps in front of him, her Tachi held level at his throat, the blade still retaining red sword-light. His jian hangs stuck in the bronze bell behind them, its purple flame flickering. Dust slowly settles and leaves drift down under the blood-red moon. Her white hair and robe flap in the wind, her gaze cold and unmoving.
-```
-
-## 旧段6-4
-
-- 来源：旧段6
-- 等级：衔接
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式（2/5）
-- 字数：456
-
-超大远景上升摇臂拉离崖顶；她沿长长石阶走进云海，白色身影一步步消失在雾里
-
-```text
-At 00:08.000, the camera cuts to an extreme wide rising crane shot pulling away from the cliff top. <Subject 1> descends the long stone stairway into the sea of clouds, her small white figure disappearing step by step into the fog. The temple terrace, the kneeling <Subject 4> and the bronze bell grow small below as the camera rises toward the huge blood-red moon. Fog rolls over the cliff edge and maple leaves drift across the moon. Stable, slow ending.
-```
-
 ## 日漫A1-6
-
-- 来源：日漫A1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果（3/5）
-- 字数：804
 
 缓慢拉远：反派一拳把主角像炮弹一样打飞（飞的过程拍到），穿过岩柱撞进岩山被埋；反派站在擂台上满意冷笑
 
@@ -141,13 +62,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 
 ## 日漫A3-6
 
-- 来源：日漫A3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果（3/5）
-- 字数：604
-
 缓慢拉远：主角趴在擂台边犁出的沟里，衣服破、带伤、气焰微弱，撑起单膝怒视；反派抱臂得意大笑
 
 ```text
@@ -155,13 +69,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 ```
 
 ## 日漫A5-6
-
-- 来源：日漫A5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果（3/5）
-- 字数：529
 
 缓慢拉远：光消失，终极变身主角独自落在裂开的擂台上，长发随风，远处岩山一个冒烟的洞，抬头望天
 
@@ -171,13 +78,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 
 ## 日漫B1-6
 
-- 来源：日漫B1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：602
-
 拉远大全景；父亲在左单膝撑起、气焰熄灭般闪烁；反派在右轻轻落地朝左慢慢走来（接下一段）；收尾特写父亲握拳上的火星熄灭
 
 ```text
@@ -185,13 +85,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 ```
 
 ## 日漫B2-6
-
-- 来源：日漫B2
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：603
 
 拉远大全景；父亲闭眼、抬起的手垂落（定格特写手指上最后的火星熄灭）；反派站在坑边慢慢转头看向左边，风吹尘土，一片死寂
 
@@ -201,13 +94,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 
 ## 日漫B3-6
 
-- 来源：日漫B3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、节奏（4/5）
-- 字数：502
-
 垂直下坠定格后拉远大全景；反派一拳把师父砸进地里成坑；反派直起身转向左边，慢慢走向发抖的少年（接下一段）
 
 ```text
@@ -215,13 +101,6 @@ At 00:12.000, the camera cuts to a vertical rapid falling shot, freezing at the 
 ```
 
 ## 日漫B5-6
-
-- 来源：日漫B5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：505
 
 拉远大全景；反派在右朝左从坑里爬出，甲壳裂开、嘴角流紫血、气焰乱窜；少年在左朝右手垂身侧，平静，闪电在金焰上跳；他立刻迈前一步
 
@@ -231,13 +110,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 
 ## 日漫B6-6
 
-- 来源：日漫B6
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：509
-
 拉远大全景；地上左边少年朝右上看反派，左臂垂着，只把右手拢到腰侧，掌心开始聚蓝白光；身后师父在坑里勉强抬头；右上天空反派的光球像第二个太阳
 
 ```text
@@ -245,13 +117,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 ```
 
 ## 日漫B7-6
-
-- 来源：日漫B7
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：425
 
 左前方缓慢推进中景；少年眼睛快闭上、右臂弯下、气焰熄灭般闪、脚跟慢动作往后滑；然后他肩后空中亮起一团柔和温暖的金光，周围的风忽然静了一瞬，他眼睛睁大一点（接灵魂出场）
 
@@ -261,13 +126,6 @@ At 00:12.000, the camera cuts to a slow push-in medium shot on <Subject 1> from 
 
 ## 日漫B8-5
 
-- 来源：日漫B8
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：365
-
 慢速拉远大全景稳定构图；光波消失，反派原来的位置只剩飘散的发光尘埃；漩涡云层裂开，金色阳光照下废墟擂台，风停了，尘土落在碎擂台和四根角柱上
 
 ```text
@@ -275,13 +133,6 @@ At 00:10.000, the camera cuts to a slow pull-back wide establishing shot, stable
 ```
 
 ## 日漫B8-6
-
-- 来源：日漫B8
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：557
 
 缓慢推进中景；少年跪倒在坑里，气焰和闪电消退、左臂垂着、哭着；半透明的父亲灵魂从后面飘下来，阳光透过身体，一只发光透明的手放在他头上笑，然后化成金色光点升向天空，留下一瞬残影；少年抬头望天，泪流着慢慢笑了
 
@@ -291,13 +142,6 @@ At 00:12.000, the camera cuts to a slow push-in medium shot. <Subject 1> drops t
 
 ## 日漫C4-6
 
-- 来源：日漫C4
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：498
-
 拉远大全景稳定构图；主角落在坑左边朝右，蹲低喘气冒蒸汽；豹人从冒烟的坑里朝左爬出来，豹毛焦了流血，红眼锁定主角（下一段从这个状态接）
 
 ```text
@@ -306,13 +150,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 
 ## 日漫C5-3
 
-- 来源：日漫C5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：565
-
 慢节奏大全景停一拍：主角趴在瓦砾里不动，豹人转身背对他；风吹过；手指一动，抓起帽子站起朝右，粉白蒸汽像冲击波炸开，节奏翻倍，豹人惊愕转身（倒地再起的情绪转折）
 
 ```text
@@ -320,13 +157,6 @@ At 00:04.000, the camera cuts to a slow wide shot, freezing for a beat: <Subject
 ```
 
 ## 日漫C5-6
-
-- 来源：日漫C5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：628
 
 拉远大全景；主角从肩后三分之四背影看，一个人站在废墟屋顶中央喘气，蒸汽慢慢散去，一手按着帽子咧嘴笑，一个动作举拳向天；远处塔还在冒烟，夕阳沉向远处巨门
 

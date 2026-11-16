@@ -6,13 +6,6 @@
 
 ## C1-5
 
-- 来源：C1
-- 等级：A
-- 打法：以小打大
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：481
-
 垂直下坠镜头定格；刀刺进核心，红光从巨兽全身裂缝炸出；拧刀拔出旋身离开，盔甲一片片碎裂，冲击波推倒一圈断柱
 
 ```text
@@ -20,13 +13,6 @@ At 00:10.000, the camera cuts to a vertical rapid falling shot, freezing at the 
 ```
 
 ## C3-5
-
-- 来源：C3
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：564
 
 垂直下坠镜头定格；他裹紫焰当头劈下，她硬接脚下环裂，卸力反击；旋身砍在他剑柄附近把剑打飞，剑旋转插进铜钟，钟声震出可见冲击波；新月剑气擦过他劈开山门
 
@@ -36,42 +22,13 @@ At 00:10.000, the camera cuts to a vertical rapid falling shot, freezing at the 
 
 ## X4-5
 
-- 来源：X4
-- 等级：B
-- 打法：以小打大
-- 风格：2D 日漫
-- 五样：招式、后果、特效（3/5）
-- 字数：171
-
 一刀直劈而下，巨大金色火弧把妖怪劈成两半；单膝落在屋顶上，妖怪化成灰烬和火星
 
 ```text
 At 00:08.000, he slashes straight down; a giant arc of golden fire splits the demon in two. He lands on one knee on the rooftop as the demon dissolves into ash and embers.
 ```
 
-## 旧段5-5
-
-- 来源：旧段5
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：516
-
-垂直下坠镜头定格；他裹着紫焰火柱当头劈下，她硬接，脚下地面环裂，卸力反击；旋身砍在他剑柄附近把剑打飞，剑在空中旋转插进开裂的铜钟，钟声震出可见冲击波扫过平台
-
-```text
-At 00:10.000, the camera cuts to a vertical rapid falling shot, freezing at the moment of impact. <Subject 4> brings down an overhead strike wreathed in a pillar of purple flame; <Subject 1> hard-blocks it, the ground cracking in a ring beneath her feet, instantly dissipates the force and counters. She spins and strikes his blade near the hilt, knocking the jian out of his hand; it spins through the air and stabs into the cracked bronze bell, which rings out with a visible shockwave rippling across the terrace.
-```
-
 ## k4d-6
-
-- 来源：k4d
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：950
 
 缓慢拉远大全景；他旋身最后一记紫焰横扫用力过猛，她后仰躲过、弹起旋身砍在他剑柄附近把剑打飞，剑插进他身后远处石地；他空手退两步，她落在两步外刀垂身侧、刀尖朝地；尘土落定落叶飘下，钟一直挂在架上（✓ 留手的正确写法，刃不停在人身前）
 
@@ -81,13 +38,6 @@ At 00:12.000, the camera cuts to a slow pull-back wide establishing shot, stable
 
 ## 日漫A5-5
 
-- 来源：日漫A5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：591
-
 垂直下坠定格：零距离巨大蓝色气功波轰穿反派，他在光里化成绿光碎屑消散，光波继续打穿远处岩山冲上天，擂台连锁炸开
 
 ```text
@@ -95,13 +45,6 @@ At 00:10.000, the camera cuts to a vertical rapid falling shot, freezing at the 
 ```
 
 ## 日漫B2-4
-
-- 来源：日漫B2
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：554
 
 低侧角中景两人；反派在右抬一根手指，紫白细光一闪穿胸，慢动作；父亲金色长发缩回黑色短发（变回普通形态），向后倒下
 
@@ -111,13 +54,6 @@ At 00:07.000, the camera cuts to a medium two-shot from a low side angle. <Subje
 
 ## 日漫B7-5
 
-- 来源：日漫B7
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：480
-
 从反派肩后升起的高角摇臂往下看；反派大笑加力，对撞点离少年只剩几米，少年的波缩成一条细线，坑越来越深、坑边石板粉碎，节奏翻倍，阴云里闪蓝白光
 
 ```text
@@ -126,13 +62,6 @@ At 00:10.000, the camera cuts to a high-angle crane shot rising over <Subject 4>
 
 ## 日漫B8-4
 
-- 来源：日漫B8
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：599
-
 沿蓝白光波高速跟拍上到天上的反派；巨大光波吞掉他的波，定格反派三分之四侧脸惊恐盯着地上少年的特写，光铺满画面；然后被吞没，慢动作里身体从脚往上裂成发光碎片，完全消散一片不剩，光波连环穿透云层
 
 ```text
@@ -140,13 +69,6 @@ At 00:07.000, the camera cuts to a fast tracking shot racing up along the blue-w
 ```
 
 ## 日漫C5-2
-
-- 来源：日漫C5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：664
 
 近距跟拍接着扑：爪子掐住喉咙，一路把主角往后推过屋顶，凉鞋犁出两道沟，按在最后一根石柱上，鼻尖对鼻尖双拳顶胸打双拳贯穿冲击，冲击波穿身从背后炸出，石柱连环震碎；慢动作翻白眼、帽子掉落
 

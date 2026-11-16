@@ -6,13 +6,6 @@
 
 ## C1-3
 
-- 来源：C1
-- 等级：A
-- 打法：以小打大
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：589
-
 广角低机位加上升摇臂；从巨兽肩头蹬上夜空，翻身红弧，锥形剑气轰在头背，盔甲连环爆炸碎片掉落，镜头震动
 
 ```text
@@ -20,13 +13,6 @@ At 00:04.000, the camera cuts to a wide-angle low angle with a high-altitude ris
 ```
 
 ## C2-3
-
-- 来源：C2
-- 等级：A
-- 打法：一打多
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：600
 
 广角低机位加俯冲摇臂；蹬石灯笼跃空翻身红弧；锥形剑气垂直轰进傀儡群，桥面连环爆炸，石板和雪掉进峡谷
 
@@ -36,13 +22,6 @@ At 00:04.000, the camera cuts to a wide-angle low angle with a high-altitude div
 
 ## X1-3
 
-- 来源：X1
-- 等级：B
-- 打法：一打多
-- 风格：3D 仙侠（长枪）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：256
-
 广角低机位摇臂；插枪撑跳腾空，枪转一圈砸进地面，寒霜冲击波冻住敌人、石板开裂
 
 ```text
@@ -50,13 +29,6 @@ At 00:04.000, wide low-angle crane shot. He plants the spear and vaults into the
 ```
 
 ## X2-3
-
-- 来源：X2
-- 等级：B
-- 打法：一打多
-- 风格：真人武侠
-- 五样：运镜、招式（2/5）
-- 字数：214
 
 低角度广角；又有两人从侧面冲来，她踩竹竿跑两步翻身越过他们，落在身后斩倒两人，竹叶旋起
 
@@ -66,13 +38,6 @@ At 00:04.500, low-angle wide shot. Two more assassins charge from the sides; she
 
 ## X3-3
 
-- 来源：X3
-- 等级：B
-- 打法：一打多
-- 风格：真人现代徒手
-- 五样：运镜、招式（2/5）
-- 字数：157
-
 低角度广角；第四个人冲来，他跃起飞膝撞胸，两人落进柏油路的积水里溅起水花
 
 ```text
@@ -81,42 +46,13 @@ At 00:04.500, low-angle wide shot. A fourth thug charges; he leaps and drives a 
 
 ## X4-3
 
-- 来源：X4
-- 等级：B
-- 打法：以小打大
-- 风格：2D 日漫
-- 五样：运镜、招式、特效（3/5）
-- 字数：160
-
 满月下广角；高高跃起成剪影，空中转身举刀，金色火焰缠上刀身
 
 ```text
 At 00:04.500, wide shot against the full moon. He leaps high into the air, silhouetted, spins once and raises the katana as golden flames wrap around the blade.
 ```
 
-## 旧段3-6
-
-- 来源：旧段3
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：477
-
-广角低机位上升摇臂；两人同时蹬地跃向云海上的血月，平台上留下两个小坑和旋转落叶；镜头上仰跟着，一道红光一道紫焰，迎着月亮又挥刀相向
-
-```text
-At 00:12.000, the camera cuts to a wide low-angle rising crane shot. <Subject 1> and <Subject 4> kick off the ground at the same instant and leap high into the air toward the huge blood-red moon above the sea of clouds, leaving two small craters and a whirl of leaves on the terrace below. The camera tilts up following them, the two figures, one trailing crimson light and the other trailing purple flame, rising against the moon as their blades swing toward each other again.
-```
-
 ## 日漫A5-3
-
-- 来源：日漫A5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：532
 
 上升摇臂：反派跳高狂轰气弹，主角瞬间消失只剩金色残影，出现在反派面前；双掌间攒出蓝色光球，反派惊恐
 
@@ -126,13 +62,6 @@ At 00:04.000, the camera cuts to a wide-angle low angle with a rising crane shot
 
 ## 日漫B3-3
 
-- 来源：日漫B3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：496
-
 广角低机位上升摇臂；师父跳上断石板，两指按额蓄黄光，怒吼发螺旋光束（螺旋钻头光束）；反派零延迟偏头躲过，光束钻穿远处岩山连环崩塌
 
 ```text
@@ -141,13 +70,6 @@ At 00:04.000, the camera cuts to a wide-angle low angle with a rising crane shot
 
 ## 日漫B6-4
 
-- 来源：日漫B6
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：448
-
 广角低机位高空上升摇臂；反派冲上阴天高空悬停朝下，双手拢在腰侧，掌间蓝白巨大能量球越聚越大，头顶云层卷成漩涡，风压把整片荒野的尘土刮起
 
 ```text
@@ -155,13 +77,6 @@ At 00:07.000, the camera cuts to a wide-angle low angle with a high-altitude ris
 ```
 
 ## 日漫C3-4
-
-- 来源：日漫C3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：493
 
 俯拍上升摇臂；主角双臂缠住屋顶边两根石柱，把自己往后拉成巨型弹弓，超音速射出，空中抱住刺客转一圈，头朝下砸进屋顶成深坑（借地形 + 擒拿摔投）
 

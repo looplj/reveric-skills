@@ -6,13 +6,6 @@
 
 ## C1-4
 
-- 来源：C1
-- 等级：A
-- 打法：以小打大
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：582
-
 空中 360 度环绕切脸特写，眼睛盯住巨兽胸口发光核心；空中转身蹬巨爪借力，红箭般突刺；符文展开，冲击波吹散紫烟
 
 ```text
@@ -20,13 +13,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 1> in mid-ai
 ```
 
 ## C2-4
-
-- 来源：C2
-- 等级：A
-- 打法：一打多
-- 风格：3D 仙侠
-- 五样：运镜、招式、特效、节奏（4/5）
-- 字数：578
 
 360 度环绕切脸特写，雪落银发，眼神扫视；闪开横扫长戟，一记突刺贯穿一整排；蹬碎栏杆空中变向杀回，落雪里只剩红色残影
 
@@ -36,13 +22,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 1>, then ins
 
 ## C3-4
 
-- 来源：C3
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：559
-
 落在断柱上，360 度环绕切脸特写盯着冲过烟雾的对手；跳下柱子毫厘闪过他的下劈，近身突刺，他勉强格住被推得滑退拖出火花；符文展开冲击波吹散落叶
 
 ```text
@@ -50,13 +29,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 1> as she la
 ```
 
 ## X1-4
-
-- 来源：X1
-- 等级：B
-- 打法：一打多
-- 风格：3D 仙侠（长枪）
-- 五样：运镜、招式、特效（3/5）
-- 字数：160
 
 快速环绕切脸特写；雪花掠过冷眼，蓝光映在脸上
 
@@ -66,13 +38,6 @@ At 00:06.500, the camera orbits rapidly around him and cuts to a facial close-up
 
 ## X2-4
 
-- 来源：X2
-- 等级：B
-- 打法：一打多
-- 风格：真人武侠
-- 五样：运镜（1/5）
-- 字数：119
-
 脸部特写，喘气，一缕头发挡在眼前，剑锋在前景
 
 ```text
@@ -80,13 +45,6 @@ At 00:07.000, close-up on her face, breathing hard, a strand of hair across her 
 ```
 
 ## X3-4
-
-- 来源：X3
-- 等级：B
-- 打法：一打多
-- 风格：真人现代徒手
-- 五样：运镜、特效（2/5）
-- 字数：116
 
 雨中脸部特写，水从头发滴下，霓虹映在脸颊，咬紧牙关
 
@@ -96,87 +54,13 @@ At 00:06.500, close-up on his face in the rain, water dripping from his hair, ne
 
 ## X4-4
 
-- 来源：X4
-- 等级：B
-- 打法：以小打大
-- 风格：2D 日漫
-- 五样：运镜、特效（2/5）
-- 字数：94
-
 脸部特写，琥珀色眼睛发光，花瓣从镜头前飘过
 
 ```text
 At 00:06.500, close-up of his face, amber eyes glowing, petals passing in front of the camera.
 ```
 
-## 旧段1-3
-
-- 来源：旧段1
-- 等级：衔接
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、特效（3/5）
-- 字数：536
-
-红月光下脸部冷特写，眼睛慢慢抬起，盯住铜钟下的远处人影
-
-```text
-At 00:06.000, the camera cuts to a facial close-up of <Subject 1>, lit by the red moonlight. Cold close-up locking on her face, her eyes slowly lifting to fix on the distant figure beneath the bronze bell. Strands of silver hair drift across her porcelain face, and a single maple leaf passes in front of her eyes in shallow focus. Her expression stays completely still and lethal, her lips closed. Her fingers tighten around the scabbard of her Tachi, and a faint crimson glow seeps out from the gap between the guard and the scabbard.
-```
-
-## 旧段2-3
-
-- 来源：旧段2
-- 等级：衔接
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、特效（3/5）
-- 字数：449
-
-她的脸部冷特写，眼睛微眯映着紫光，右手搭上刀柄，重心下沉成拔刀架势
-
-```text
-At 00:06.000, the camera cuts to a facial close-up of <Subject 1>. Cold close-up locking on her face, her eyes narrowing slightly as the purple light reflects in them. Her right hand slides onto the hilt of her Tachi and she shifts her weight into a low drawing stance. A sudden gust blows her silver-white hair and the white silk robe sideways, and crimson light begins to leak from the mouth of the scabbard, glowing brighter with every heartbeat.
-```
-
-## 旧段4-4
-
-- 来源：旧段4
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：462
-
-她在弧线顶点 360 度环绕后切脸部冷特写，银发扫过眼睛，透过烟雾盯着下方的他；红色符文在刀周围展开成环，冲击波把烟云向四面吹散
-
-```text
-At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 1> as she hangs in the air at the top of her arc, then instantly cuts to a facial close-up. Cold close-up locking on her face, her silver hair whipping across her eyes, eyes fixed on <Subject 4> through the drifting smoke below her. Mystical crimson runes unfold in a ring around her blade, and a spiritual impact wave blasts the remaining smoke and cloud mist away from her in every direction.
-```
-
-## 旧段5-4
-
-- 来源：旧段5
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、特效、节奏（4/5）
-- 字数：459
-
-360 度环绕切她的冷脸特写，眼睛眯起，看他把所有紫焰聚成最后一击，剑上火焰涨成咆哮的火柱；她把刀垂到身侧静立，红色符文在刀周展开，他的气势吹得她衣发翻飞
-
-```text
-At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 1>, then instantly cuts to a facial close-up. Cold close-up locking on her face, eyes narrowing as she watches <Subject 4> gather all his purple flame into one last attack, the flame on his jian swelling into a roaring pillar. She lowers her Tachi to her side in a still, ready stance, crimson runes unfolding around the blade, the wind of his rising power whipping her silver hair and robe.
-```
-
 ## k4d-4
-
-- 来源：k4d
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：462
 
 360 度快速环绕她悬在弧顶，切脸部冷特写；银发扫过眼前，盯着下方的他；红色符文在刀身外绕成一圈，灵力冲击波把烟云向四周炸开
 
@@ -186,13 +70,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 1> as she ha
 
 ## 日漫A1-4
 
-- 来源：日漫A1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、特效、节奏（4/5）
-- 字数：670
-
 360 环绕反派切脸部特写：拇指擦嘴角、轻蔑地说一句日语台词；然后咧嘴把气聚到拳上冲天
 
 ```text
@@ -200,13 +77,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 4>, then ins
 ```
 
 ## 日漫A3-4
-
-- 来源：日漫A3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：601
 
 360 环绕反派切脸部特写：残忍得意，说一句日语台词；双手前推爆气，光球被压回主角那边，节奏翻倍
 
@@ -216,13 +86,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 4>, then ins
 
 ## 日漫A4-3
 
-- 来源：日漫A4
-- 等级：衔接
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、后果、特效（3/5）
-- 字数：483
-
 缓慢 360 环绕：持续怒吼、青筋，金发一路长到腰下（照第 4 张定妆图），气焰里蓝白电光，浮石一块块碎掉
 
 ```text
@@ -230,13 +93,6 @@ At 00:04.000, the camera orbits 360 degrees slowly around <Subject 1> as he keep
 ```
 
 ## 日漫A4-6
-
-- 来源：日漫A4
-- 等级：衔接
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果（3/5）
-- 字数：362
 
 终极变身主角脸部特写，冷静威严，说一句日语台词，盯住反派
 
@@ -246,13 +102,6 @@ At 00:12.000, the camera cuts to a close-up of <Subject 1>'s ultimate power-up f
 
 ## 日漫A5-4
 
-- 来源：日漫A5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、特效、节奏（4/5）
-- 字数：408
-
 360 环绕切终极变身主角脸部特写，被手里的蓝光从下照亮，冷静说一句日语台词，节奏翻倍
 
 ```text
@@ -260,13 +109,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 1>, then ins
 ```
 
 ## 日漫B1-4
-
-- 来源：日漫B1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、节奏（4/5）
-- 字数：545
 
 360 环绕反派后切过肩特写：前景父亲长发，反派三分之四侧脸盯着父亲冷笑说台词，黄绿气焰鼓起
 
@@ -276,13 +118,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 4>, then ins
 
 ## 日漫B2-5
 
-- 来源：日漫B2
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：586
-
 慢速 360 环绕躺着的父亲后切低角特写：三分之四侧脸、黑发、眼睛转向擂台左边儿子的方向，淡淡笑着虚弱说遗言；最后的金光慢慢散去
 
 ```text
@@ -290,13 +125,6 @@ At 00:10.000, the camera orbits 360 degrees slowly around <Subject 1> lying on h
 ```
 
 ## 日漫B3-5
-
-- 来源：日漫B3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：603
 
 360 环绕地上两人后切低角特写：前景反派斑点手臂，师父被按住、三分之四侧脸、眼睛拼命转向左边的少年，喊“少年快跑”；石板裂开、气的火星熄灭
 
@@ -306,13 +134,6 @@ At 00:10.000, the camera orbits 360 degrees rapidly around the two on the ground
 
 ## 日漫B4-2
 
-- 来源：日漫B4
-- 等级：衔接
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：578
-
 低侧角缓慢推进到少年；拳头攥到发抖，第一缕蓝白闪电窜过金色气焰，脚下石板裂纹向外窜，碎块浮起，悲伤变成愤怒，节奏翻倍；定格拳头特写：掌心滴血、金光铺满画面
 
 ```text
@@ -320,13 +141,6 @@ At 00:01.000, the camera cuts to a slow push-in from a low side angle on <Subjec
 ```
 
 ## 日漫B4-4
-
-- 来源：日漫B4
-- 等级：衔接
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、节奏（4/5）
-- 字数：614
 
 360 环绕少年：头发更尖更竖、垂下一缕刘海（进入二段变身），闪电爬满全身；后切过肩特写：前景反派头冠，少年三分之四侧脸、泪痕未干、冷冷盯着反派说台词
 
@@ -336,13 +150,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 1> as his go
 
 ## 日漫B5-4
 
-- 来源：日漫B5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、节奏（4/5）
-- 字数：560
-
 360 环绕反派后切过肩特写：前景少年金发，反派一手按肚、嘴唇发抖、三分之四侧脸不敢相信地盯着少年说“不可能”；画面边缘闪电噼啪
 
 ```text
@@ -350,13 +157,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 4>, then ins
 ```
 
 ## 日漫B6-5
-
-- 来源：日漫B6
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：516
 
 360 环绕天上的反派后切仰拍过肩特写：前景左下少年金发，反派三分之四侧脸、狂怒盯着少年，掌间蓝白光炽亮，吼“连地球一起消失吧”
 
@@ -366,13 +166,6 @@ At 00:10.000, the camera orbits 360 degrees rapidly around <Subject 4> in the sk
 
 ## 日漫B7-4
 
-- 来源：日漫B7
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、节奏（4/5）
-- 字数：444
-
 慢速 360 环绕少年后切过肩特写：越过他的肩和伸出的右臂看他三分之四侧脸，被光照成蓝白，咬牙流泪，眼睛盯着头顶反派的波，慢动作里一声无字的嘶吼，气焰闪烁
 
 ```text
@@ -380,13 +173,6 @@ At 00:07.000, the camera orbits 360 degrees slowly around <Subject 1>, then inst
 ```
 
 ## 日漫B8-2
-
-- 来源：日漫B8
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效（4/5）
-- 字数：503
 
 过肩特写：前景少年金发，看父亲灵魂半透明的三分之四侧脸（透过脸看到云）、眼睛盯着儿子、温暖又凶地笑，喊“就是现在，少年！全部打出去！”；少年瞪大眼、眼泪涌出
 
@@ -396,13 +182,6 @@ At 00:01.000, the camera cuts to an over-the-shoulder close-up: the camera looks
 
 ## 日漫C1-4
 
-- 来源：日漫C1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：501
-
 360 环绕后切刺客冷脸特写，肩上鸟歪头，说台词；镜头甩到主角收起笑容、双臂往后拉长蓄力
 
 ```text
@@ -410,13 +189,6 @@ At 00:07.000, the camera orbits 360 degrees rapidly around <Subject 4>, then ins
 ```
 
 ## 日漫C2-5
-
-- 来源：日漫C2
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：527
 
 360 环绕碎石后切主角特写：从瓦砾里爬出，帽子遮眼，抬头怒吼台词，冲击波吹开洞口尘土（台词偏长，后半句落到俯拍坑洞镜头上）
 
@@ -426,13 +198,6 @@ At 00:10.000, the camera orbits 360 degrees rapidly around the rubble, then inst
 
 ## 日漫C3-2
 
-- 来源：日漫C3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、特效、节奏（4/5）
-- 字数：441
-
 360 环绕蒸汽中的主角后切特写，冷静专注，喊“蒸汽加速”；蒸汽像冲击波炸开（变身段特写放第 2 镜，打破固定节拍）
 
 ```text
@@ -441,13 +206,6 @@ At 00:01.000, the camera orbits 360 degrees rapidly around <Subject 1> inside th
 
 ## 日漫C4-3
 
-- 来源：日漫C4
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、特效、节奏（4/5）
-- 字数：602
-
 360 环绕悬空的豹人后切过肩特写：前景是主角帽子，豹人三分之四侧脸、眼睛发光盯着下方的主角，冷冷说台词
 
 ```text
@@ -455,13 +213,6 @@ At 00:04.000, the camera orbits 360 degrees rapidly around <Subject 4> hovering 
 ```
 
 ## 日漫C5-4
-
-- 来源：日漫C5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：572
 
 360 环绕后切过肩特写：前景是豹人带斑点的肩膀，主角三分之四侧脸、鼻青脸肿、眼神燃烧盯着豹人，怒吼“超音速连拳”，蒸汽发亮、冲击波吹飞瓦砾
 

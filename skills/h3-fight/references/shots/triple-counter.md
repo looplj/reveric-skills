@@ -4,44 +4,7 @@
 
 等级 A 可以整句搬。等级 B 只作打法参考。衔接块不填打戏镜头。
 
-## 旧段3-3
-
-- 来源：旧段3
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：556
-
-贴地侧跟；她贴地钻过他的防守留下残影，三连斩（横斩、上挑、旋斩）各留一道红弧；他被一步步逼退，袖子撕开；最后一刀把他身后断柱整齐劈成两半，滑开砸地
-
-```text
-At 00:04.000, the camera cuts to a fast low side-tracking shot. <Subject 1> slips under the guard of <Subject 4> low to the ground, leaving afterimages, and answers with three ultra-high-speed strikes—horizontal slash, upward thrust, spinning cut—each one leaving a sharp scarlet arc hanging in the air. He is forced back step by step, his sleeve torn open, sparks spraying from his blade. A broken stone pillar behind him is sliced cleanly in half by her last strike and slides apart, crashing onto the floor in a burst of dust, rapid rhythm without drag.
-```
-
-## 旧段5-3
-
-- 来源：旧段5
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：475
-
-贴地侧跟；她闪过他的突刺留下残影，三连斩（上挑、横斩、旋斩）：第一刀把他的剑磕开，第二刀划开他前襟拉出一线火花（⚠ 类似写法在 u4b 被画成伤口），第三刀把他逼退几步；旁边断柱裂开倒下，节奏无拖沓
-
-```text
-At 00:04.000, the camera cuts to a fast low side-tracking shot. <Subject 1> slips past his thrust, leaving afterimages, and counters with three ultra-high-speed strikes—rising cut, horizontal slash, spinning cut. The first knocks his blade wide, the second tears open the front of his black robe with a line of sparks, the third sends him staggering back several steps across the tiles, a broken pillar beside him split cleanly in two and toppling, rapid rhythm without drag.
-```
-
 ## k4d-3
-
-- 来源：k4d
-- 等级：A
-- 打法：一对一
-- 风格：3D 仙侠
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：729
 
 贴着两人下坠的跟拍；他斜劈连招，她空中扭身零延迟一一格开，火花向上掠过镜头；自由落体中锁刀慢动作，然后节奏翻倍；她蹬他的刀留下残影，三连斩（横斩、上挑、旋斩）都砍在他剑上，红弧织成网
 
@@ -51,13 +14,6 @@ At 00:04.000, the camera cuts to a tracking shot falling alongside the two fight
 
 ## 日漫A1-3
 
-- 来源：日漫A1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：587
-
 贴地侧跟；主角钻进防守留残影，三连（直拳、膝撞、旋踢）各留金弧；反派被逼退，身后岩柱被踢碎
 
 ```text
@@ -65,13 +21,6 @@ At 00:04.000, the camera cuts to a fast low side-tracking shot. <Subject 1> slip
 ```
 
 ## 日漫B1-3
-
-- 来源：日漫B1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：578
 
 螺旋推进；反派抓住父亲手腕外翻、拽失衡，掌底上托下巴把人托离地面；父亲后翻单手落地，脚跟在石板上犁出两道沟
 
@@ -81,13 +30,6 @@ At 00:04.000, the camera cuts to a spiral push-in tracking shot. <Subject 4> cat
 
 ## 日漫B5-3
 
-- 来源：日漫B5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（徒手+气功波）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：628
-
 广角低机位上升摇臂、机位不越线、少年始终在左，慢动作；少年拽住反派手臂一记膝撞顶进肚子，反派整个人对折、眼睛凸出、口水飞出，冲击波从背后穿出连环裂地；恢复全速，反派捂肚往右踉跄
 
 ```text
@@ -95,13 +37,6 @@ At 00:04.000, the camera cuts to a wide-angle low angle with a rising crane shot
 ```
 
 ## 日漫C1-3
-
-- 来源：日漫C1
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：529
 
 广角低机位上升摇臂；刺客空踢三连发白色月牙气刃，主角后仰、压扁、侧弹三种躲法留残影；气刃把身后石墙切塌，节奏无拖沓
 
@@ -111,13 +46,6 @@ At 00:04.000, the camera cuts to a wide-angle low angle with a rising crane shot
 
 ## 日漫C2-4
 
-- 来源：日漫C2
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、节奏（4/5）
-- 字数：496
-
 广角低机位上升摇臂；刺客单手撑地擦嘴，眼神变杀意，近距离三连踢，第三脚巨大气刃正中胸口，把主角打穿厚石墙，墙连环炸开
 
 ```text
@@ -126,13 +54,6 @@ At 00:07.000, the camera cuts to a wide-angle low angle with a rising crane shot
 
 ## 日漫C3-3
 
-- 来源：日漫C3
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：544
-
 跟拍；主角化成粉色蒸汽消失留残影，拳头已埋进刺客肚子，刺客第一次瞪大眼被打飞、脚犁出两道沟；主角零延迟追上三连喷射拳
 
 ```text
@@ -140,13 +61,6 @@ At 00:04.000, the camera cuts to a dynamic tracking shot. <Subject 1> vanishes i
 ```
 
 ## 日漫C5-5
-
-- 来源：日漫C5
-- 等级：A
-- 打法：一对一
-- 风格：2D 日漫（伸缩肢体 vs 暗杀技）
-- 五样：运镜、招式、后果、特效、节奏（5/5）
-- 字数：561
 
 广角低机位上升摇臂；主角在左朝右超高速打出上百记伸缩喷射拳，拳影和粉色蒸汽四面轰击，铁身防御碎裂，最后一拳把豹人打穿残墙、飞过晚霞撞进远处石塔，塔连环倒塌
 
