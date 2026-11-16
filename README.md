@@ -92,6 +92,7 @@
 | <a href="https://github.com/liyue-aigc/seedance-2-5-fight-director">seedance-2-5-fight-director</a> | Seedance 2.5 高燃打戏导演：提示词与诊断。 | 分镜与提示词 | 提示词、Seedance |
 | <a href="https://github.com/irenerachel/fight-prompt-director">fight-prompt-director</a> | 把角色、场景和动作要求组织成打戏提示词，说明动作因果、空间关系和镜头连续性。 | 分镜与提示词 | 打戏、动作、Seedance、MiniMax H3 |
 | <a href="https://github.com/looplj/reveric-skills/tree/main/skills/fight-director">fight-director</a> | 整合 Arvin 与 LucianAIGC 的打斗导演技能：武学攻防、兵器法术、多角色空间调度、运镜与视频提示词，资料按需加载。 | 分镜与提示词 | 打戏、动作、分镜、提示词、Seedance |
+| <a href="https://github.com/looplj/reveric-skills/tree/main/skills/h3-fight">h3-fight</a> | MiniMax H3 打戏提示词：从已出片的镜头块整句改写一对一、一打多和以小打大，并按六段式与踩坑表自检。 | 分镜与提示词 | 打戏、动作、提示词、MiniMax H3 |
 | <a href="https://github.com/AharaOoO/acheng-director-skill">acheng-director-skill</a> | Acheng 导演引擎：剧本、分镜、文戏五轨表演、打戏因果链、特效与资产，编译成 MiniMax H3 / Seedance 提示词。 | 分镜与提示词 | 人物、剧本、审稿、分镜、提示词、MiniMax H3、Seedance |
 | <a href="https://github.com/alchaincyf/seedance-skill">seedance-skill</a> | 白模驱动的 Seedance 工作台：用 scene.json 渲染白模参考视频并做几何体检，可从照片反解白模，按白模几何写提示词。 | 分镜与提示词 | 分镜、提示词、Seedance |
 | <a href="https://github.com/kevinchin12/storyboard-director">storyboard-director</a> | 故事 → 分镜脚本，子代理并行生成逐镜线稿，HTML 审片板返修指定镜头，确认后汇总成按镜头排序的视频提示词。 | 分镜与提示词 | 分镜、提示词 |

@@ -1113,6 +1113,19 @@
     ]
   },
   {
+    "name": "h3-fight",
+    "description": "MiniMax H3 打戏提示词：从已出片的镜头块整句改写一对一、一打多和以小打大，并按六段式与踩坑表自检。",
+    "when_to_use": "为 MiniMax H3 写武打、刀剑、徒手、气功对波或追逐提示词，或把剧本里的打斗节拍写成约 10 秒的六镜头段。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/h3-fight",
+    "category": "分镜与提示词",
+    "tags": [
+      "打戏",
+      "动作",
+      "提示词",
+      "MiniMax H3"
+    ]
+  },
+  {
     "name": "acheng-director-skill",
     "description": "Acheng 导演引擎：剧本、分镜、文戏五轨表演、打戏因果链、特效与资产，编译成 MiniMax H3 / Seedance 提示词。",
     "when_to_use": "需要将文戏、打戏和特效场景组织为分镜、表演与视频提示词。",
