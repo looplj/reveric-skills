@@ -1513,17 +1513,16 @@
     ]
   },
   {
-    "name": "seedance-2.0",
-    "description": "模块化 Seedance 2.0 视频提示词技能集，覆盖创意访谈、运镜、灯光、角色一致性、片段续接、多镜头编排与结果诊断。",
-    "when_to_use": "编写或修订 Seedance 2.0 提示词，或专项处理镜头语言、角色连续性和片段衔接。",
-    "url": "https://github.com/Emily2040/seedance-2.0",
+    "name": "seedance-20",
+    "description": "Seedance 2.0 导演提示词的单技能改编：镜头、素材绑定、续写和诊断按需读取，不含上游的 28 个子技能。",
+    "when_to_use": "为即梦、剪映或豆包编写、压缩或续写 Seedance 2.0 提示词。许可与改编范围见技能 NOTICE。",
+    "url": "https://github.com/looplj/reveric-skills/tree/main/skills/seedance-20",
     "category": "分镜与提示词",
     "tags": [
-      "Seedance",
+      "提示词",
       "运镜",
-      "灯光",
-      "角色一致性",
-      "连续性"
+      "连续性",
+      "Seedance"
     ]
   },
   {

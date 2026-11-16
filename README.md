@@ -124,7 +124,7 @@
 | <a href="https://github.com/larashero3-dotcom/writing-dna-skill">writing-dna-skill</a> | 写作蒸馏器：从一批完整文章中拆出语言、结构、选题、素材、认知框架和视觉风格，生成可复用的 Writing DNA，供后续按该作者风格写作。 | 文字润色 | 文风、风格蒸馏、作者风格 |
 | <a href="https://github.com/larashero3-dotcom/lieflat-less-ai-tone">lieflat-less-ai-tone</a> | 按明确规则清理中文成稿中的模板句式、重复结构与翻译腔，保留未命中规则的文字和原有文章框架。 | 文字润色 | 中文、去AI味、成稿精修、保真改写 |
 | <a href="https://github.com/baibanbao/qu-ai-wei">baibanbao/qu-ai-wei</a> | 结合王佩写作系统、humanizer-zh 与 lieflat-less-ai-tone，区分自家稿编辑和白名单清理，保留作者声音与事实边界。 | 文字润色 | 中文、去AI味、编辑、作者声音 |
-| <a href="https://github.com/Emily2040/seedance-2.0">seedance-2.0</a> | 模块化 Seedance 2.0 视频提示词技能集，覆盖创意访谈、运镜、灯光、角色一致性、片段续接、多镜头编排与结果诊断。 | 分镜与提示词 | Seedance、运镜、灯光、角色一致性、连续性 |
+| <a href="https://github.com/looplj/reveric-skills/tree/main/skills/seedance-20">seedance-20</a> | Seedance 2.0 导演提示词的单技能改编：镜头、素材绑定、续写和诊断按需读取，不含上游的 28 个子技能。 | 分镜与提示词 | 提示词、运镜、连续性、Seedance |
 | <a href="https://github.com/eternityspring/reelbench-skills">reelbench-skills</a> | 包含逐镜拉片分析、分镜信息同步演示与视频元数据清理技能，结合脚本测量和模型画面判断；依赖 Node 与 FFmpeg。 | 制作流程 | 拉片、分镜分析、视频处理、FFmpeg |
 
 <!-- skills-table:end -->
